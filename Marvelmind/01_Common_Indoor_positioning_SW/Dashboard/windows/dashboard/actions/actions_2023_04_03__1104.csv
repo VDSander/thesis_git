@@ -1,0 +1,430 @@
+03.04.2023 11:04:00, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+03.04.2023 11:04:03, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+03.04.2023 11:04:03, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+03.04.2023 11:04:03, user, 1, 1, "Extrapolation", enabled, disabled
+03.04.2023 11:04:03, user, 1, 0, "Service zones visible", disabled, enabled
+03.04.2023 11:04:03, user, 1, 0, "Service zones active", disabled, enabled
+03.04.2023 11:04:03, user, 1, 1, "Samples number (1..10)", 3, 0
+03.04.2023 11:04:03, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+03.04.2023 11:04:03, user, 1, 1, "Window of averaging (0..16)", 0, 4
+03.04.2023 11:04:03, user, 1, 1, "Distance filter (0..16)", 8, 0
+03.04.2023 11:04:03, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+03.04.2023 11:04:03, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+03.04.2023 11:04:03, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+03.04.2023 11:04:03, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+03.04.2023 11:04:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:04:12, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:04:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:04:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:04:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:04:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:04:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:04:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:04:49, user, 10, 6, device sleep, 
+03.04.2023 11:04:51, user, 11, 6, device wake, 
+03.04.2023 11:05:37, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 25000, 50000
+03.04.2023 11:08:45, user, 1, 6, "UART speed, bps", 9600, 19200
+03.04.2023 11:08:45, user, 1, 6, "UART speed, bps", 19200, 38400
+03.04.2023 11:08:46, user, 1, 6, "UART speed, bps", 38400, 57600
+03.04.2023 11:08:46, user, 1, 6, "UART speed, bps", 57600, 115200
+03.04.2023 11:08:47, user, 1, 6, "UART speed, bps", 115200, 500000
+03.04.2023 11:08:58, user, 1, 6, "UART speed, bps", 500000, 4800
+03.04.2023 11:08:58, user, 1, 6, "UART speed, bps", 4800, 9600
+03.04.2023 11:09:16, user, 11, 5, device wake, 
+03.04.2023 11:09:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:09:36, user, 10, 6, device sleep, 
+03.04.2023 11:09:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:09:44, user, 11, 6, device wake, 
+03.04.2023 11:09:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:09:59, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:10:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:10:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:10:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:10:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:10:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:10:17, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:10:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:10:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:10:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:10:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:10:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:10:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:10:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:10:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:10:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:11:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:11:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:11:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:11:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:11:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:11:47, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 50000, 19000
+03.04.2023 11:13:18, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 19000, 37000
+03.04.2023 11:13:26, user, 10, 6, device sleep, 
+03.04.2023 11:13:29, user, 11, 6, device wake, 
+03.04.2023 11:13:57, user, 13, 6, device zero IMU, 
+03.04.2023 11:14:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:14:12, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:14:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:14:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:14:19, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:14:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:14:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:14:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:14:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:14:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:14:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:14:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:14:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:14:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:14:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:15:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:15:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:15:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:15:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:15:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:15:16, user, 1, 6, "Raw inertial sensors data", disabled, enabled
+03.04.2023 11:15:17, user, 1, 6, "Processed IMU data", disabled, enabled
+03.04.2023 11:15:17, user, 1, 6, "Raw distances data", disabled, enabled
+03.04.2023 11:15:18, user, 1, 6, "Quality and extended location data", disabled, enabled
+03.04.2023 11:15:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:15:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:15:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:15:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:15:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:15:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:15:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:15:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:15:37, user, 1, 6, "Output mode", No output, IMU fusion data
+03.04.2023 11:15:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:15:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:15:42, user, 1, 6, "IMU fusion location", disabled, enabled
+03.04.2023 11:15:42, user, 1, 6, "IMU fusion quaternion", disabled, enabled
+03.04.2023 11:15:43, user, 1, 6, "IMU fusion velocity", disabled, enabled
+03.04.2023 11:15:43, user, 1, 6, "IMU fusion acceleration", disabled, enabled
+03.04.2023 11:15:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:18:11, user, 10, 6, device sleep, 
+03.04.2023 11:18:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:18:12, user, 11, 6, device wake, 
+03.04.2023 11:18:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:19:45, user, 10, 6, device sleep, 
+03.04.2023 11:19:45, user, 10, 5, device sleep, 
+03.04.2023 11:19:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:24:09, user, 11, 6, device wake, 
+03.04.2023 11:24:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:24:34, user, 11, 5, device wake, 
+03.04.2023 11:24:36, user, 10, 6, device sleep, 
+03.04.2023 11:24:37, user, 10, 6, device sleep, 
+03.04.2023 11:24:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:24:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:25:05, user, 10, 6, device sleep, 
+03.04.2023 11:25:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:25:06, user, 10, 5, device sleep, 
+03.04.2023 11:25:07, user, 11, 6, device wake, 
+03.04.2023 11:25:16, user, 11, 5, device wake, 
+03.04.2023 11:25:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:25:31, user, 10, 5, device sleep, 
+03.04.2023 11:25:32, user, 11, 5, device wake, 
+03.04.2023 11:25:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:25:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:26:13, user, 10, 5, device sleep, 
+03.04.2023 11:26:14, user, 10, 6, device sleep, 
+03.04.2023 11:26:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:31:04, user, 11, 5, device wake, 
+03.04.2023 11:31:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:31:29, user, 11, 6, device wake, 
+03.04.2023 11:31:31, user, 10, 5, device sleep, 
+03.04.2023 11:32:09, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 37000, 25000
+03.04.2023 11:32:10, user, 13, 6, device zero IMU, 
+03.04.2023 11:32:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:32:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:33:07, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 25000, 28000
+03.04.2023 11:33:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:33:09, user, 13, 6, device zero IMU, 
+03.04.2023 11:33:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:33:35, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 28000
+03.04.2023 11:34:09, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 28000, 34000
+03.04.2023 11:34:59, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 28000, 25000
+03.04.2023 11:35:47, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 34000, 25000
+03.04.2023 11:35:49, user, 13, 5, device zero IMU, 
+03.04.2023 11:36:32, user, 1, 6, "Radio frequency band", "915 MHz", "315 MHz"
+03.04.2023 11:36:32, user, 1, 6, "Radio frequency band", "315 MHz", "433 MHz"
+03.04.2023 11:36:33, user, 1, 6, "Radio frequency band", "433 MHz", "868 MHz"
+03.04.2023 11:36:33, user, 1, 6, "Radio channel", 0, 3
+03.04.2023 11:36:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:37:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:37:51, user, 10, 6, device sleep, 
+03.04.2023 11:37:53, user, 11, 6, device wake, 
+03.04.2023 11:37:54, user, 10, 6, device sleep, 
+03.04.2023 11:37:59, user, 10, 6, device sleep, 
+03.04.2023 11:38:21, user, 10, 5, device sleep, 
+03.04.2023 11:38:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:38:22, user, 11, 6, device wake, 
+03.04.2023 11:39:53, user, 10, 1, device sleep, 
+03.04.2023 11:39:56, user, 10, 1, device sleep, 
+03.04.2023 11:40:01, user, 1, 1, "Hedgehog mode", disabled, enabled
+03.04.2023 11:40:05, user, 1, 6, "Rotation, degrees", 176.0, 0.0
+03.04.2023 11:40:17, user, 1, 6, "Hedgehog mode", enabled, disabled
+03.04.2023 11:40:21, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+03.04.2023 11:40:25, user, 11, 6, device wake, 
+03.04.2023 11:41:12, user, 1, 1, "Hedgehog mode", disabled, enabled
+03.04.2023 11:41:17, user, 1, 6, "Rotation, degrees", 48.0, 0.0
+03.04.2023 11:41:23, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+03.04.2023 11:41:26, user, 1, 1, "Hedgehog mode", disabled, enabled
+03.04.2023 11:41:28, user, 1, 6, "Radio frequency band", "868 MHz", "915 MHz"
+03.04.2023 11:41:47, user, 1, 1, "Rotation, degrees", 48.0, 0.0
+03.04.2023 11:41:49, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+03.04.2023 11:41:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:42:06, user, 11, 5, device wake, 
+03.04.2023 11:42:57, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 25000, 28000
+03.04.2023 11:43:26, user, 1, 6, "Rotation, degrees", 48.0, 0.0
+03.04.2023 11:43:31, user, 20, 6, device TX sensors, 11111 11110
+03.04.2023 11:43:31, user, 20, 6, device TX sensors, 11111 11100
+03.04.2023 11:43:32, user, 20, 6, device TX sensors, 11111 11101
+03.04.2023 11:43:32, user, 20, 6, device TX sensors, 11111 11111
+03.04.2023 11:43:44, user, 1, 6, "Hedgehog mode", enabled, disabled
+03.04.2023 11:43:56, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+03.04.2023 11:44:05, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 28000, 25000
+03.04.2023 11:44:07, user, 13, 6, device zero IMU, 
+03.04.2023 11:44:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:44:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:45:11, user, 2, 0, map freeze, 1
+03.04.2023 11:45:11, user, 2, 0, map freeze, 0
+03.04.2023 11:46:47, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 25000, 65000
+03.04.2023 11:47:18, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 65000, 45000
+03.04.2023 11:47:35, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 65000
+03.04.2023 11:47:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 11:47:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 11:48:12, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 65000, 25000
+03.04.2023 11:48:45, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 45000, 22000
+03.04.2023 11:51:10, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 22000, 19000
+03.04.2023 11:52:10, user, 10, 6, device sleep, 
+03.04.2023 11:52:11, user, 11, 6, device wake, 
+03.04.2023 11:52:13, user, 10, 6, device sleep, 
+03.04.2023 11:52:14, user, 10, 6, device sleep, 
+03.04.2023 11:52:35, user, 10, 6, device sleep, 
+03.04.2023 11:52:36, user, 11, 6, device wake, 
+03.04.2023 11:59:06, user, 10, 5, device sleep, 
+03.04.2023 11:59:11, user, 1, 6, "Ultrasonic frequency, Hz (100..65000)", 19000, 25000
+03.04.2023 12:22:27, user, 1, 6, "Radio channel", 0, 1
+03.04.2023 12:22:44, user, 1, 6, "Power of TX", 9 dBm, 7 dBm
+03.04.2023 12:22:45, user, 1, 6, "Power of TX", 7 dBm, 4 dBm
+03.04.2023 12:22:45, user, 1, 6, "Power of TX", 4 dBm, -1 dBm
+03.04.2023 12:22:46, user, 1, 6, "Power of TX", -1 dBm, -11 dBm
+03.04.2023 12:22:46, user, 1, 6, "Power of TX", -11 dBm, -16 dBm
+03.04.2023 12:22:47, user, 1, 6, "Power of TX", -16 dBm, -20 dBm
+03.04.2023 12:22:47, user, 1, 6, "Power of TX", -20 dBm, -29 dBm
+03.04.2023 12:22:48, user, 1, 6, "Power of TX", -29 dBm, -58 dBm
+03.04.2023 12:22:48, user, 1, 6, "Power of TX", -58 dBm, 9 dBm
+03.04.2023 12:23:03, user, 1, 6, "Radio channel", 1, 0
+03.04.2023 12:25:29, user, 11, 5, device wake, 
+03.04.2023 12:26:25, user, 10, 6, device sleep, 
+03.04.2023 12:27:37, user, 10, 5, device sleep, 
+03.04.2023 12:27:50, user, 1, 1, "Rotation, degrees", 48.0, 0.0
+03.04.2023 12:27:55, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+03.04.2023 12:27:59, user, 11, 5, device wake, 
+03.04.2023 12:29:09, user, 11, 6, device wake, 
+03.04.2023 12:30:13, user, 1, 1, "Hedgehog mode", disabled, enabled
+03.04.2023 12:30:17, user, 1, 6, "Rotation, degrees", 48.0, 0.0
+03.04.2023 12:30:45, user, 1, 6, "Radio channel", 1, 0
+03.04.2023 12:31:01, user, 1, 6, "Modulation", GFSK, ASK/OOK
+03.04.2023 12:31:02, user, 1, 6, "Modulation", ASK/OOK, 4-FSK
+03.04.2023 12:31:03, user, 1, 6, "Modulation", 4-FSK, 4-GFSK
+03.04.2023 12:31:03, user, 1, 6, "Modulation", 4-GFSK, MSK
+03.04.2023 12:31:04, user, 1, 6, "Modulation", MSK, 2-FSK
+03.04.2023 12:31:05, user, 1, 6, "Modulation", 2-FSK, GFSK
+03.04.2023 12:33:36, user, 1, 6, "Ay zero", 2, 0
+03.04.2023 12:33:36, user, 1, 6, "Az zero", 35, 0
+03.04.2023 12:33:36, user, 1, 6, "Ax K", 1.003, 1.000
+03.04.2023 12:33:36, user, 1, 6, "Ay K", 0.997, 1.000
+03.04.2023 12:33:36, user, 1, 6, "Az K", 0.993, 1.000
+03.04.2023 12:34:14, user, 1, 6, "Ax zero", 0, -2
+03.04.2023 12:34:14, user, 1, 6, "Ay zero", 0, 490
+03.04.2023 12:34:14, user, 1, 6, "Az zero", 0, 36
+03.04.2023 12:34:14, user, 1, 6, "Ax K", 1.000, 1.002
+03.04.2023 12:34:14, user, 1, 6, "Ay K", 1.000, 1.936
+03.04.2023 12:34:14, user, 1, 6, "Az K", 1.000, 0.994
+03.04.2023 12:38:23, user, 1, 6, "Power of TX", 9 dBm, 7 dBm
+03.04.2023 12:38:23, user, 1, 6, "Power of TX", 7 dBm, 4 dBm
+03.04.2023 12:38:24, user, 1, 6, "Power of TX", 4 dBm, -1 dBm
+03.04.2023 12:38:25, user, 1, 6, "Power of TX", -1 dBm, -11 dBm
+03.04.2023 12:38:25, user, 1, 6, "Power of TX", -11 dBm, -16 dBm
+03.04.2023 12:38:25, user, 1, 6, "Power of TX", -16 dBm, -20 dBm
+03.04.2023 12:38:26, user, 1, 6, "Power of TX", -20 dBm, -29 dBm
+03.04.2023 12:38:26, user, 1, 6, "Power of TX", -29 dBm, -58 dBm
+03.04.2023 12:38:27, user, 1, 6, "Power of TX", -58 dBm, 9 dBm
+03.04.2023 12:38:27, user, 1, 6, "Power of TX", 9 dBm, 7 dBm
+03.04.2023 12:38:28, user, 1, 6, "Power of TX", 7 dBm, 4 dBm
+03.04.2023 12:38:28, user, 1, 6, "Power of TX", 4 dBm, -1 dBm
+03.04.2023 12:38:28, user, 1, 6, "Power of TX", -1 dBm, -11 dBm
+03.04.2023 12:38:28, user, 1, 6, "Power of TX", -11 dBm, -16 dBm
+03.04.2023 12:38:29, user, 1, 6, "Power of TX", -16 dBm, -20 dBm
+03.04.2023 12:38:29, user, 1, 6, "Power of TX", -20 dBm, -29 dBm
+03.04.2023 12:38:29, user, 1, 6, "Power of TX", -29 dBm, -58 dBm
+03.04.2023 12:38:30, user, 1, 6, "Power of TX", -58 dBm, 9 dBm
+03.04.2023 12:39:55, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+03.04.2023 12:39:55, user, 18, 0, add submap, 
+03.04.2023 12:39:55, user, 1, 0, "1D/2D/3D", 1D, none (no beacons)
+03.04.2023 12:40:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:40:52, user, 18, 0, add submap, 
+03.04.2023 12:40:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:40:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:41:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:41:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:41:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:41:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:41:17, user, 16, 1, add to submap, 0
+03.04.2023 12:41:20, user, 16, 2, add to submap, 0
+03.04.2023 12:41:23, user, 16, 3, add to submap, 0
+03.04.2023 12:41:26, user, 16, 4, add to submap, 0
+03.04.2023 12:41:53, user, 10, 6, device sleep, 
+03.04.2023 12:42:33, user, 14, 5, device remove from network, 
+03.04.2023 12:42:33, user, 14, 6, device remove from network, 
+03.04.2023 12:42:33, user, 7, 0, erase map, 0
+03.04.2023 12:42:43, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\marvelmind_SW_2022_11_19\01_Common_Indoor_positioning_SW\Dashboard\windows\dashboard\maps\map_2023_04_03__1145_autosave.ini
+03.04.2023 12:42:43, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+03.04.2023 12:42:43, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+03.04.2023 12:42:43, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+03.04.2023 12:42:55, user, 11, 1, device wake, 
+03.04.2023 12:42:55, user, 11, 2, device wake, 
+03.04.2023 12:42:55, user, 11, 3, device wake, 
+03.04.2023 12:42:55, user, 11, 4, device wake, 
+03.04.2023 12:42:55, user, 11, 5, device wake, 
+03.04.2023 12:42:55, user, 11, 6, device wake, 
+03.04.2023 12:43:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:43:24, user, 2, 0, map freeze, 1
+03.04.2023 12:43:28, user, 2, 0, map freeze, 0
+03.04.2023 12:44:42, user, 7, 0, erase map, 0
+03.04.2023 12:44:43, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\marvelmind_SW_2022_11_19\01_Common_Indoor_positioning_SW\Dashboard\windows\dashboard\maps\map_2023_04_03__1244_autosave.ini
+03.04.2023 12:44:43, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+03.04.2023 12:44:43, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+03.04.2023 12:44:43, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+03.04.2023 12:44:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:44:56, user, 11, 1, device wake, 
+03.04.2023 12:44:56, user, 11, 2, device wake, 
+03.04.2023 12:44:56, user, 11, 3, device wake, 
+03.04.2023 12:44:56, user, 11, 4, device wake, 
+03.04.2023 12:44:56, user, 11, 5, device wake, 
+03.04.2023 12:44:56, user, 11, 6, device wake, 
+03.04.2023 12:45:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:45:42, user, 2, 0, map freeze, 1
+03.04.2023 12:45:53, user, 10, 5, device sleep, 
+03.04.2023 12:45:54, user, 10, 6, device sleep, 
+03.04.2023 12:45:55, user, 11, 5, device wake, 
+03.04.2023 12:46:37, user, 11, 6, device wake, 
+03.04.2023 12:46:38, user, 10, 5, device sleep, 
+03.04.2023 12:46:40, user, 10, 5, device sleep, 
+03.04.2023 12:46:44, user, 10, 5, device sleep, 
+03.04.2023 12:47:13, user, 2, 0, map freeze, 0
+03.04.2023 12:47:22, user, 14, 5, device remove from network, 
+03.04.2023 12:47:22, user, 7, 0, erase map, 0
+03.04.2023 12:47:37, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\marvelmind_SW_2022_11_19\01_Common_Indoor_positioning_SW\Dashboard\windows\dashboard\maps\map_2023_04_03__1145_autosave.ini
+03.04.2023 12:47:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:48:32, user, 7, 0, erase map, 0
+03.04.2023 12:48:33, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\marvelmind_SW_2022_11_19\01_Common_Indoor_positioning_SW\Dashboard\windows\dashboard\maps\map_2023_04_03__1145_autosave.ini
+03.04.2023 12:48:33, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+03.04.2023 12:48:33, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+03.04.2023 12:48:33, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+03.04.2023 12:48:33, user, 11, 1, device wake, 
+03.04.2023 12:48:33, user, 11, 2, device wake, 
+03.04.2023 12:48:33, user, 11, 3, device wake, 
+03.04.2023 12:48:33, user, 11, 4, device wake, 
+03.04.2023 12:48:33, user, 11, 5, device wake, 
+03.04.2023 12:48:33, user, 11, 6, device wake, 
+03.04.2023 12:48:43, user, 11, 1, device wake, 
+03.04.2023 12:48:43, user, 11, 2, device wake, 
+03.04.2023 12:48:43, user, 11, 3, device wake, 
+03.04.2023 12:48:43, user, 11, 4, device wake, 
+03.04.2023 12:48:43, user, 11, 5, device wake, 
+03.04.2023 12:48:43, user, 11, 6, device wake, 
+03.04.2023 12:48:50, user, 1, 4, "Intermediate frequency (ID), kHz", 0, 203
+03.04.2023 12:48:50, user, 1, 4, "Offset frequency, kHz (-203.13..201.54)", -14.28, 0.00
+03.04.2023 12:48:50, user, 1, 4, "Deviation frequency, kHz", 0.000, 47.607
+03.04.2023 12:48:50, user, 1, 4, "Channel bandwidth, kHz", 30.093, 325.000
+03.04.2023 12:48:50, user, 1, 4, "Max. acceleration, m/s2 (0.000..40.000)", License SW v7.1 required, 19.904
+03.04.2023 12:48:52, user, 1, 2, "Intermediate frequency (ID), kHz", 0, 203
+03.04.2023 12:48:52, user, 1, 2, "Offset frequency, kHz (-203.13..201.54)", -22.22, -7.93
+03.04.2023 12:48:52, user, 1, 2, "Offset frequency, kHz (-101.56..100.77)", 0.00, -7.93
+03.04.2023 12:48:52, user, 1, 2, "Deviation frequency, kHz", 0.000, 47.607
+03.04.2023 12:48:52, user, 1, 2, "Channel bandwidth, kHz", 30.093, 325.000
+03.04.2023 12:48:52, user, 1, 2, "Max. acceleration, m/s2 (0.000..40.000)", License SW v7.1 required, 19.904
+03.04.2023 12:48:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:48:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:49:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:49:03, user, 1, 3, "Intermediate frequency (ID), kHz", 0, 203
+03.04.2023 12:49:03, user, 1, 3, "Offset frequency, kHz (-203.13..201.54)", -1.59, -11.11
+03.04.2023 12:49:03, user, 1, 3, "Offset frequency, kHz (-101.56..100.77)", 0.00, -11.11
+03.04.2023 12:49:03, user, 1, 3, "Deviation frequency, kHz", 0.000, 47.607
+03.04.2023 12:49:03, user, 1, 3, "Channel bandwidth, kHz", 30.093, 325.000
+03.04.2023 12:49:03, user, 1, 3, "Max. acceleration, m/s2 (0.000..40.000)", License SW v7.1 required, 19.904
+03.04.2023 12:49:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:49:09, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+03.04.2023 12:49:09, user, 1, 1, "Offset frequency, kHz (-203.13..201.54)", -46.02, -22.22
+03.04.2023 12:49:09, user, 1, 1, "Offset frequency, kHz (-101.56..100.77)", 0.00, -22.22
+03.04.2023 12:49:09, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+03.04.2023 12:49:09, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+03.04.2023 12:49:09, user, 1, 1, "Max. acceleration, m/s2 (0.000..40.000)", License SW v7.1 required, 19.904
+03.04.2023 12:49:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:49:59, user, 2, 0, map freeze, 1
+03.04.2023 12:50:22, user, 10, 6, device sleep, 
+03.04.2023 12:51:06, user, 11, 6, device wake, 
+03.04.2023 12:51:22, user, 10, 5, device sleep, 
+03.04.2023 12:53:52, user, 1, 6, "Power save functions", enabled / active, disabled
+03.04.2023 12:53:52, user, 1, 6, "Power save functions", disabled, enabled / active
+03.04.2023 12:53:53, user, 1, 6, "Power save functions", enabled / active, disabled
+03.04.2023 12:53:53, user, 1, 6, "Power save functions", disabled, enabled / active
+03.04.2023 12:55:24, user, 1, 4, "Power save functions", enabled / active, disabled
+03.04.2023 12:55:27, user, 1, 3, "Power save functions", enabled / active, disabled
+03.04.2023 12:55:29, user, 1, 2, "Power save functions", enabled / active, disabled
+03.04.2023 12:55:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:55:32, user, 1, 1, "Power save functions", enabled / active, disabled
+03.04.2023 12:55:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:55:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:55:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 12:56:51, user, 11, 5, device wake, 
+03.04.2023 12:56:52, user, 10, 6, device sleep, 
+03.04.2023 12:56:56, user, 10, 6, device sleep, 
+03.04.2023 12:57:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 12:58:20, user, 1, 1, "Location update rate", 8 Hz, 12 Hz
+03.04.2023 12:58:21, user, 1, 1, "Location update rate", 12 Hz, 16 Hz
+03.04.2023 12:58:21, user, 1, 1, "Location update rate", 16 Hz, 16+ Hz
+03.04.2023 12:58:22, user, 1, 1, "Location update rate", 16+ Hz, 0.05 Hz
+03.04.2023 12:58:22, user, 1, 1, "Location update rate", 0.05 Hz, 0.1 Hz
+03.04.2023 12:58:22, user, 1, 1, "Location update rate", 0.1 Hz, 0.2 Hz
+03.04.2023 12:58:23, user, 1, 1, "Location update rate", 0.2 Hz, 0.5 Hz
+03.04.2023 12:58:23, user, 1, 1, "Location update rate", 0.5 Hz, 1 Hz
+03.04.2023 12:58:24, user, 1, 1, "Location update rate", 1 Hz, 2 Hz
+03.04.2023 12:58:24, user, 1, 1, "Location update rate", 2 Hz, 4 Hz
+03.04.2023 12:58:27, user, 1, 1, "Location update rate", 4 Hz, 8 Hz
+03.04.2023 12:59:24, user, 11, 6, device wake, 
+03.04.2023 12:59:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:00:44, user, 1, 5, "Power save functions", enabled / active, disabled
+03.04.2023 13:01:54, user, 10, 6, device sleep, 
+03.04.2023 13:02:56, user, 1, 1, "UART speed, bps", 500000, 4800
+03.04.2023 13:02:57, user, 1, 1, "UART speed, bps", 4800, 9600
+03.04.2023 13:03:33, user, 1, 0, "Beacons view", normal, no additional info
+03.04.2023 13:03:35, user, 1, 0, "Beacons view", no additional info, no location
+03.04.2023 13:03:37, user, 1, 0, "Beacons view", no location, small size
+03.04.2023 13:03:38, user, 1, 0, "Beacons view", small size, normal
+03.04.2023 13:03:40, user, 1, 0, "Beacons view", normal, no additional info
+03.04.2023 13:03:40, user, 1, 0, "Beacons view", no additional info, no location
+03.04.2023 13:03:40, user, 1, 0, "Beacons view", no location, small size
+03.04.2023 13:03:41, user, 1, 0, "Beacons view", small size, normal
+03.04.2023 13:03:41, user, 1, 0, "Beacons view", normal, no additional info
+03.04.2023 13:03:41, user, 1, 0, "Beacons view", no additional info, no location
+03.04.2023 13:03:42, user, 1, 0, "Beacons view", no location, small size
+03.04.2023 13:03:42, user, 1, 0, "Beacons view", small size, normal
+03.04.2023 13:03:50, user, 1, 1, "Hopping mode", None, Sequence 1
+03.04.2023 13:03:51, user, 1, 1, "Hopping mode", Sequence 1, Sequence 2
+03.04.2023 13:03:52, user, 1, 1, "Hopping mode", Sequence 2, Sequence 3
+03.04.2023 13:03:52, user, 1, 1, "Hopping mode", Sequence 3, None
+03.04.2023 13:04:05, user, 1, 1, "Movement filtering", disabled, enabled
+03.04.2023 13:04:12, user, 1, 1, "Movement filtering", enabled, disabled
+03.04.2023 13:04:22, user, 1, 1, "Use pairs of beacons", disabled, enabled
+03.04.2023 13:04:30, user, 1, 1, "Use pairs of beacons", enabled, disabled
+03.04.2023 13:05:49, user, 11, 6, device wake, 
+03.04.2023 13:05:53, user, 10, 5, device sleep, 
+03.04.2023 13:14:30, user, 1, 21, "Rotation, degrees", 48.0, 0.0
+03.04.2023 13:14:33, user, 1, 21, "Device address (1..254)", 21, 7
+03.04.2023 13:22:22, user, 12, 7, device default, 
+03.04.2023 13:24:35, user, 1, 21, "Device address (1..254)", 21, 7
+03.04.2023 13:24:39, user, 12, 7, device default, 

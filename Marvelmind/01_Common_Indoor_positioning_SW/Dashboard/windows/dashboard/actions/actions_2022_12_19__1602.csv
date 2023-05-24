@@ -1,0 +1,33 @@
+19.12.2022 16:02:24, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+19.12.2022 16:02:26, user, 1, 5, "Location update rate", 16 Hz, 8 Hz
+19.12.2022 16:02:26, user, 1, 5, "Extrapolation", enabled, disabled
+19.12.2022 16:02:26, user, 1, 0, "Service zones visible", disabled, enabled
+19.12.2022 16:02:26, user, 1, 0, "Service zones active", disabled, enabled
+19.12.2022 16:02:26, user, 1, 5, "Samples number (1..10)", 3, 0
+19.12.2022 16:02:26, user, 1, 5, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+19.12.2022 16:02:26, user, 1, 5, "Window of averaging (0..16)", 0, 4
+19.12.2022 16:02:26, user, 1, 5, "Distance filter (0..16)", 8, 0
+19.12.2022 16:02:26, user, 1, 5, "Max. hedges readout per cycle (1..255)", 10, 0
+19.12.2022 16:02:26, user, 1, 5, "Jitter granularity, ms (1..16)", 3, 1
+19.12.2022 16:02:26, user, 1, 5, "Jitter area, % (0..50)", 25, 0
+19.12.2022 16:02:26, user, 1, 5, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+19.12.2022 16:03:00, user, 7, 0, erase map, 0
+19.12.2022 16:03:01, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\maps\submap0.ini
+19.12.2022 16:03:01, user, 1, 5, "Device address (1..254)", 5, 1
+19.12.2022 16:03:01, user, 1, 1, "Intermediate frequency (ID), kHz (0..787)", 152, 203
+19.12.2022 16:03:01, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+19.12.2022 16:03:01, user, 1, 1, "Deviation frequency, kHz (1.587..380.859)", 20.630, 47.607
+19.12.2022 16:03:01, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+19.12.2022 16:03:01, user, 1, 1, "Channel bandwidth, kHz (58.036..812.500)", 101.563, 325.000
+19.12.2022 16:03:01, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+19.12.2022 16:03:01, user, 1, 1, "UART speed, bps", 9600, 500000
+19.12.2022 16:03:02, user, 1, 5, "Device address (1..254)", 5, 0
+19.12.2022 16:03:12, user, 2, 0, map freeze, 1
+19.12.2022 16:03:14, user, 2, 0, map freeze, 0
+19.12.2022 16:03:15, user, 11, 1, device wake, 
+19.12.2022 16:03:15, user, 11, 2, device wake, 
+19.12.2022 16:03:15, user, 11, 3, device wake, 
+19.12.2022 16:03:15, user, 11, 4, device wake, 
+19.12.2022 16:03:18, user, 1, 0, "1D/2D/3D", 1D, none (no beacons)
+19.12.2022 16:03:27, user, 1, 5, "Rotation, degrees", 176.0, 0.0
+19.12.2022 16:03:30, user, 1, 5, "Rotation, degrees", 0.0, 176.0

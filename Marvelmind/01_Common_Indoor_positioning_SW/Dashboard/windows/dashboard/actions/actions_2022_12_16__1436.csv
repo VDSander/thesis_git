@@ -1,0 +1,45 @@
+16.12.2022 14:36:27, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+16.12.2022 14:36:30, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+16.12.2022 14:36:30, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+16.12.2022 14:36:30, user, 1, 1, "Extrapolation", enabled, disabled
+16.12.2022 14:36:30, user, 1, 0, "Service zones visible", disabled, enabled
+16.12.2022 14:36:30, user, 1, 0, "Service zones active", disabled, enabled
+16.12.2022 14:36:30, user, 1, 1, "Samples number (1..10)", 3, 0
+16.12.2022 14:36:30, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+16.12.2022 14:36:30, user, 1, 1, "Window of averaging (0..16)", 0, 4
+16.12.2022 14:36:30, user, 1, 1, "Distance filter (0..16)", 8, 0
+16.12.2022 14:36:30, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+16.12.2022 14:36:30, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+16.12.2022 14:36:30, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+16.12.2022 14:36:30, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+16.12.2022 14:36:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:36:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:36:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:36:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:36:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:36:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:36:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:36:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:36:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:36:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:36:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:36:59, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:37:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:37:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:37:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:37:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:37:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:37:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:37:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16.12.2022 14:37:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16.12.2022 14:37:21, user, 1, 6, "UART speed, bps", 9600, 19200
+16.12.2022 14:37:21, user, 1, 6, "UART speed, bps", 19200, 38400
+16.12.2022 14:37:22, user, 1, 6, "UART speed, bps", 38400, 57600
+16.12.2022 14:37:22, user, 1, 6, "UART speed, bps", 57600, 115200
+16.12.2022 14:37:23, user, 1, 6, "UART speed, bps", 115200, 500000
+16.12.2022 14:37:35, user, 10, 22, device sleep, 
+16.12.2022 14:37:42, user, 14, 22, device remove from network, 
+16.12.2022 14:38:34, user, 1, 6, "Streaming output", USB+UART, USB+UART/Bluetooth
+16.12.2022 14:38:35, user, 1, 6, "Streaming output", USB+UART/Bluetooth, Disabled
+16.12.2022 14:38:37, user, 1, 6, "Streaming output", Disabled, USB only
+16.12.2022 14:38:38, user, 1, 6, "Streaming output", USB only, USB+UART

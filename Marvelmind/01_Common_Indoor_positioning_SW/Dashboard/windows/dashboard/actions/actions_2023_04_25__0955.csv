@@ -1,0 +1,341 @@
+25.04.2023 09:55:29, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+25.04.2023 09:55:33, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+25.04.2023 09:55:33, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+25.04.2023 09:55:33, user, 1, 1, "Extrapolation", enabled, disabled
+25.04.2023 09:55:33, user, 1, 0, "Service zones visible", disabled, enabled
+25.04.2023 09:55:33, user, 1, 0, "Service zones active", disabled, enabled
+25.04.2023 09:55:33, user, 1, 1, "Samples number (1..10)", 3, 0
+25.04.2023 09:55:33, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+25.04.2023 09:55:33, user, 1, 1, "Window of averaging (0..16)", 0, 4
+25.04.2023 09:55:33, user, 1, 1, "Distance filter (0..16)", 8, 0
+25.04.2023 09:55:33, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+25.04.2023 09:55:33, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+25.04.2023 09:55:33, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+25.04.2023 09:55:34, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+25.04.2023 09:55:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 09:55:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 09:56:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 09:56:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 09:56:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 09:56:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 09:57:17, user, 1, 1, "Location update rate", 8 Hz, 12 Hz
+25.04.2023 09:57:18, user, 1, 1, "Location update rate", 12 Hz, 16 Hz
+25.04.2023 09:57:19, user, 1, 1, "Location update rate", 16 Hz, 16+ Hz
+25.04.2023 09:57:20, user, 1, 1, "Location update rate", 16+ Hz, 0.05 Hz
+25.04.2023 09:57:25, user, 1, 1, "Location update rate", 0.05 Hz, 0.1 Hz
+25.04.2023 09:57:26, user, 1, 1, "Location update rate", 0.1 Hz, 0.2 Hz
+25.04.2023 09:57:27, user, 1, 1, "Location update rate", 0.2 Hz, 0.5 Hz
+25.04.2023 09:57:27, user, 1, 1, "Location update rate", 0.5 Hz, 1 Hz
+25.04.2023 09:57:29, user, 1, 1, "Location update rate", 1 Hz, 2 Hz
+25.04.2023 09:57:30, user, 1, 1, "Location update rate", 2 Hz, 4 Hz
+25.04.2023 09:57:41, user, 1, 1, "Location update rate", 4 Hz, 8 Hz
+25.04.2023 09:57:42, user, 1, 1, "Location update rate", 8 Hz, 12 Hz
+25.04.2023 09:57:43, user, 1, 1, "Location update rate", 12 Hz, 16 Hz
+25.04.2023 09:57:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 09:58:52, user, 1, 1, "Mode of work", Normal, RX only
+25.04.2023 09:58:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 09:58:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 09:59:01, user, 1, 2, "Mode of work", Normal, RX only
+25.04.2023 09:59:02, user, 1, 2, "Mode of work", RX only, DSP enabled
+25.04.2023 09:59:03, user, 1, 2, "Mode of work", DSP enabled, TX only 8Hz
+25.04.2023 09:59:03, user, 1, 2, "Mode of work", TX only 8Hz, Normal
+25.04.2023 09:59:04, user, 1, 2, "Mode of work", Normal, RX only
+25.04.2023 09:59:11, user, 1, 3, "Mode of work", Normal, RX only
+25.04.2023 09:59:15, user, 1, 4, "Mode of work", Normal, RX only
+25.04.2023 09:59:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 09:59:37, user, 1, 7, "Mode of work", Normal, RX only
+25.04.2023 09:59:37, user, 1, 7, "Mode of work", RX only, DSP enabled
+25.04.2023 09:59:38, user, 1, 7, "Mode of work", DSP enabled, TX only 8Hz
+25.04.2023 09:59:39, user, 1, 7, "Mode of work", TX only 8Hz, Normal
+25.04.2023 09:59:39, user, 1, 7, "Mode of work", Normal, RX only
+25.04.2023 09:59:40, user, 1, 7, "Mode of work", RX only, DSP enabled
+25.04.2023 09:59:40, user, 1, 7, "Mode of work", DSP enabled, TX only 8Hz
+25.04.2023 09:59:50, user, 1, 8, "Mode of work", Normal, RX only
+25.04.2023 09:59:51, user, 1, 8, "Mode of work", RX only, DSP enabled
+25.04.2023 09:59:51, user, 1, 8, "Mode of work", DSP enabled, TX only 8Hz
+25.04.2023 10:00:02, user, 1, 8, "Mode of work", TX only 8Hz, Normal
+25.04.2023 10:00:06, user, 1, 7, "Mode of work", TX only 8Hz, Normal
+25.04.2023 10:00:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:00:32, user, 1, 1, "Mode of work", RX only, DSP enabled
+25.04.2023 10:00:33, user, 1, 1, "Mode of work", DSP enabled, TX only 8Hz
+25.04.2023 10:00:33, user, 1, 1, "Mode of work", TX only 8Hz, Normal
+25.04.2023 10:00:36, user, 1, 2, "Mode of work", RX only, DSP enabled
+25.04.2023 10:00:37, user, 1, 2, "Mode of work", DSP enabled, TX only 8Hz
+25.04.2023 10:00:38, user, 1, 2, "Mode of work", TX only 8Hz, Normal
+25.04.2023 10:00:40, user, 1, 3, "Mode of work", RX only, DSP enabled
+25.04.2023 10:00:41, user, 1, 3, "Mode of work", DSP enabled, TX only 8Hz
+25.04.2023 10:00:41, user, 1, 3, "Mode of work", TX only 8Hz, Normal
+25.04.2023 10:00:44, user, 1, 4, "Mode of work", RX only, DSP enabled
+25.04.2023 10:00:44, user, 1, 4, "Mode of work", DSP enabled, TX only 8Hz
+25.04.2023 10:00:45, user, 1, 4, "Mode of work", TX only 8Hz, Normal
+25.04.2023 10:01:00, user, 18, 1, add submap, 
+25.04.2023 10:01:01, user, 1, 0, "1D/2D/3D", 1D, none (no beacons)
+25.04.2023 10:01:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:01:05, user, 19, 1, remove submap, 
+25.04.2023 10:01:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:01:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:01:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:01:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:01:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:01:59, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:02:04, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:02:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:02:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:02:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:02:19, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:02:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:02:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:02:24, user, 2, 0, map freeze, 1
+25.04.2023 10:02:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:02:26, user, 2, 0, map freeze, 0
+25.04.2023 10:04:06, user, 18, 1, add submap, 
+25.04.2023 10:04:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:04:17, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:04:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:04:26, user, 16, 1, add to submap, 1
+25.04.2023 10:04:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:04:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:04:33, user, 1, 0, "1D/2D/3D", none (no beacons), 1D
+25.04.2023 10:04:36, user, 16, 4, add to submap, 1
+25.04.2023 10:04:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:04:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:04:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:04:45, user, 18, 2, add submap, 
+25.04.2023 10:04:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:04:45, user, 1, 0, "1D/2D/3D", 1D, none (no beacons)
+25.04.2023 10:04:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:04:51, user, 16, 2, add to submap, 2
+25.04.2023 10:04:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:04:54, user, 16, 3, add to submap, 2
+25.04.2023 10:04:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:04:59, user, 1, 0, "1D/2D/3D", none (no beacons), 2D
+25.04.2023 10:05:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:03, user, 5, 2, submap mirror, 1
+25.04.2023 10:05:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:05:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:05:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:06:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:06:09, user, 19, 1, remove submap, 
+25.04.2023 10:06:10, user, 18, 3, add submap, 
+25.04.2023 10:06:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:06:11, user, 1, 0, "1D/2D/3D", 2D, none (no beacons)
+25.04.2023 10:06:11, user, 1, 0, "1D/2D/3D", none (no beacons), 2D
+25.04.2023 10:06:13, user, 19, 2, remove submap, 
+25.04.2023 10:06:14, user, 1, 0, "1D/2D/3D", 2D, none (no beacons)
+25.04.2023 10:06:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:06:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:06:16, user, 19, 3, remove submap, 
+25.04.2023 10:06:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:06:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:06:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:06:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:07:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:07:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:07:04, user, 7, 0, erase map, 0
+25.04.2023 10:07:04, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\marvelmind_SW_2022_11_19\01_Common_Indoor_positioning_SW\Dashboard\windows\dashboard\maps\map_2023_04_25__1005_autosave.ini
+25.04.2023 10:07:04, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+25.04.2023 10:07:04, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+25.04.2023 10:07:04, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+25.04.2023 10:07:04, user, 11, 1, device wake, 
+25.04.2023 10:07:04, user, 11, 2, device wake, 
+25.04.2023 10:07:04, user, 11, 3, device wake, 
+25.04.2023 10:07:04, user, 11, 4, device wake, 
+25.04.2023 10:07:04, user, 11, 7, device wake, 
+25.04.2023 10:07:04, user, 11, 8, device wake, 
+25.04.2023 10:07:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:07:17, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:07:19, user, 11, 4, device wake, 
+25.04.2023 10:07:19, user, 11, 7, device wake, 
+25.04.2023 10:07:19, user, 11, 8, device wake, 
+25.04.2023 10:07:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:07:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:07:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:07:47, user, 7, 0, erase map, 0
+25.04.2023 10:07:48, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\marvelmind_SW_2022_11_19\01_Common_Indoor_positioning_SW\Dashboard\windows\dashboard\maps\map_2023_04_25__1006_autosave.ini
+25.04.2023 10:07:48, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+25.04.2023 10:07:48, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+25.04.2023 10:07:48, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+25.04.2023 10:07:50, user, 1, 1, "Device address (1..254)", 1, 0
+25.04.2023 10:08:02, user, 11, 1, device wake, 
+25.04.2023 10:08:02, user, 11, 2, device wake, 
+25.04.2023 10:08:02, user, 11, 3, device wake, 
+25.04.2023 10:08:02, user, 11, 4, device wake, 
+25.04.2023 10:08:02, user, 11, 7, device wake, 
+25.04.2023 10:08:02, user, 11, 8, device wake, 
+25.04.2023 10:08:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:08:12, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:08:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:08:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:08:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:08:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:08:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:08:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:08:28, user, 7, 0, erase map, 0
+25.04.2023 10:08:29, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\marvelmind_SW_2022_11_19\01_Common_Indoor_positioning_SW\Dashboard\windows\dashboard\maps\map_2023_04_25__1002_autosave.ini
+25.04.2023 10:08:29, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+25.04.2023 10:08:29, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+25.04.2023 10:08:29, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+25.04.2023 10:08:29, user, 11, 1, device wake, 
+25.04.2023 10:08:29, user, 11, 2, device wake, 
+25.04.2023 10:08:29, user, 11, 3, device wake, 
+25.04.2023 10:08:29, user, 11, 4, device wake, 
+25.04.2023 10:08:29, user, 11, 7, device wake, 
+25.04.2023 10:08:29, user, 11, 8, device wake, 
+25.04.2023 10:08:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:08:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:08:44, user, 11, 3, device wake, 
+25.04.2023 10:08:44, user, 11, 4, device wake, 
+25.04.2023 10:08:44, user, 11, 7, device wake, 
+25.04.2023 10:08:44, user, 11, 8, device wake, 
+25.04.2023 10:09:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:09:07, user, 11, 16, device wake, 
+25.04.2023 10:09:08, user, 11, 16, device wake, 
+25.04.2023 10:09:08, user, 11, 16, device wake, 
+25.04.2023 10:09:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:09:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:09:46, user, 2, 0, map freeze, 0
+25.04.2023 10:10:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:10:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:10:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:10:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:10:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:10:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:10:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:10:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:10:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:10:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:10:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:11:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:11:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:11:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:11:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:11:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:11:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:11:31, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:11:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:11:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:11:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:11:37, user, 18, 1, add submap, 
+25.04.2023 10:11:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:11:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:11:53, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:11:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:12:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:12:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:19, user, 19, 1, remove submap, 
+25.04.2023 10:12:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:12:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:12:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:12:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:12:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:12:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:12:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:12:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:13:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:13:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:31, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:14:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:14:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:15:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:15:04, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:15:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:15:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:15:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:15:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:15:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:15:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:15:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:15:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:15:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:15:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:15:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:15:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:15:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:15:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:04, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:16:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:16:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:17:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:17:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:17:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:17:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+25.04.2023 10:17:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+25.04.2023 10:17:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0

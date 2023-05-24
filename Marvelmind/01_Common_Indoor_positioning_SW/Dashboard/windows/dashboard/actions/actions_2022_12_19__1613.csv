@@ -1,0 +1,158 @@
+19.12.2022 16:13:28, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+19.12.2022 16:13:57, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 39000, 25000
+19.12.2022 16:14:07, user, 9, 5, device reset, 
+19.12.2022 16:14:25, user, 1, 5, "Location update rate", 16 Hz, 8 Hz
+19.12.2022 16:14:25, user, 1, 5, "Extrapolation", enabled, disabled
+19.12.2022 16:14:25, user, 1, 0, "Service zones visible", disabled, enabled
+19.12.2022 16:14:25, user, 1, 0, "Service zones active", disabled, enabled
+19.12.2022 16:14:25, user, 1, 5, "Samples number (1..10)", 3, 0
+19.12.2022 16:14:25, user, 1, 5, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+19.12.2022 16:14:25, user, 1, 5, "Window of averaging (0..16)", 0, 4
+19.12.2022 16:14:25, user, 1, 5, "Distance filter (0..16)", 8, 0
+19.12.2022 16:14:25, user, 1, 5, "Max. hedges readout per cycle (1..255)", 10, 0
+19.12.2022 16:14:25, user, 1, 5, "Jitter granularity, ms (1..16)", 3, 1
+19.12.2022 16:14:25, user, 1, 5, "Jitter area, % (0..50)", 25, 0
+19.12.2022 16:14:25, user, 1, 5, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+19.12.2022 16:14:28, user, 1, 5, "Rotation, degrees", 0.0, 176.0
+19.12.2022 16:14:32, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:14:36, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:14:40, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:14:41, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:09, user, 2, 0, map freeze, 0
+19.12.2022 16:15:09, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:17, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:18, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:19, user, 10, 1, device sleep, 
+19.12.2022 16:15:19, user, 11, 1, device wake, 
+19.12.2022 16:15:20, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:25, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:31, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:34, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:38, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:39, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:40, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:42, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:44, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:45, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:47, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:48, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:49, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:50, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:55, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:57, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:15:58, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:15:59, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:00, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:16:01, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:05, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:16:07, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:09, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:16:11, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:11, user, 3, 0, submap freeze, 0
+19.12.2022 16:16:12, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:16:17, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:19, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:16:25, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:26, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:16:29, user, 7, 0, erase map, 0
+19.12.2022 16:16:30, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\maps\submap0.ini
+19.12.2022 16:16:30, user, 1, 5, "Device address (1..254)", 5, 1
+19.12.2022 16:16:30, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+19.12.2022 16:16:30, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+19.12.2022 16:16:30, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+19.12.2022 16:16:30, user, 11, 1, device wake, 
+19.12.2022 16:16:30, user, 11, 2, device wake, 
+19.12.2022 16:16:30, user, 11, 3, device wake, 
+19.12.2022 16:16:30, user, 11, 4, device wake, 
+19.12.2022 16:16:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:16:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:44, user, 11, 3, device wake, 
+19.12.2022 16:16:44, user, 11, 4, device wake, 
+19.12.2022 16:16:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:16:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:16:56, user, 11, 5, device wake, 
+19.12.2022 16:16:56, user, 11, 5, device wake, 
+19.12.2022 16:17:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:17:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:17:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:17:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:17:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:17:10, user, 2, 0, map freeze, 1
+19.12.2022 16:17:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:17:13, user, 2, 0, map freeze, 0
+19.12.2022 16:17:23, user, 2, 0, map freeze, 1
+19.12.2022 16:17:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:17:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:17:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:17:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:17:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:17:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:17:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:17:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:17:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:17:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:18:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:18:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:18:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:18:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:18:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:18:40, user, 1, 1, "Hedgehog mode", disabled, enabled
+19.12.2022 16:18:43, user, 1, 5, "Rotation, degrees", 176.0, 0.0
+19.12.2022 16:18:54, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 65000
+19.12.2022 16:19:03, user, 9, 5, device reset, 
+19.12.2022 16:19:15, user, 9, 5, device reset, 
+19.12.2022 16:19:36, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+19.12.2022 16:19:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:19:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:19:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:19:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:19:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:19:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:19:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:19:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:19:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:19:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:20:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:20:17, user, 10, 5, device sleep, 
+19.12.2022 16:20:18, user, 11, 5, device wake, 
+19.12.2022 16:20:45, user, 14, 5, device remove from network, 
+19.12.2022 16:20:46, user, 11, 5, device wake, 
+19.12.2022 16:21:13, user, 18, 1, add submap, 
+19.12.2022 16:21:14, user, 1, 0, "1D/2D/3D", 1D, none (no beacons)
+19.12.2022 16:21:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:21:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:21:38, user, 19, 1, remove submap, 
+19.12.2022 16:21:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:21:41, user, 10, 5, device sleep, 
+19.12.2022 16:21:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:21:43, user, 14, 5, device remove from network, 
+19.12.2022 16:21:51, user, 7, 0, erase map, 0
+19.12.2022 16:21:52, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\maps\submap0.ini
+19.12.2022 16:21:52, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+19.12.2022 16:21:52, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+19.12.2022 16:21:52, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+19.12.2022 16:21:52, user, 11, 1, device wake, 
+19.12.2022 16:21:52, user, 11, 2, device wake, 
+19.12.2022 16:21:52, user, 11, 3, device wake, 
+19.12.2022 16:21:52, user, 11, 4, device wake, 
+19.12.2022 16:22:06, user, 11, 1, device wake, 
+19.12.2022 16:22:06, user, 11, 2, device wake, 
+19.12.2022 16:22:06, user, 11, 3, device wake, 
+19.12.2022 16:22:06, user, 11, 4, device wake, 
+19.12.2022 16:22:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:22:26, user, 2, 0, map freeze, 1
+19.12.2022 16:22:29, user, 11, 5, device wake, 
+19.12.2022 16:22:29, user, 11, 5, device wake, 
+19.12.2022 16:22:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:22:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:22:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:22:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:22:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:22:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:22:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:22:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:22:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:22:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:22:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:22:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0

@@ -1,0 +1,734 @@
+16.12.2022 11:10:02, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+16/12/2022 11:15:44, user, 12, 2, device default, 
+16/12/2022 11:16:53, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+16/12/2022 11:16:53, user, 1, 1, "Extrapolation", enabled, disabled
+16/12/2022 11:16:53, user, 1, 0, "Service zones visible", disabled, enabled
+16/12/2022 11:16:53, user, 1, 0, "Service zones active", disabled, enabled
+16/12/2022 11:16:53, user, 1, 1, "Samples number (1..10)", 3, 0
+16/12/2022 11:16:53, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+16/12/2022 11:16:53, user, 1, 1, "Window of averaging (0..16)", 0, 4
+16/12/2022 11:16:53, user, 1, 1, "Distance filter (0..16)", 8, 0
+16/12/2022 11:16:53, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+16/12/2022 11:16:53, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+16/12/2022 11:16:53, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+16/12/2022 11:16:53, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+16/12/2022 11:16:54, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+16/12/2022 11:16:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:17:38, user, 1, 5, "Hedgehog mode", disabled, enabled
+16/12/2022 11:17:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:21:28, user, 2, 0, map freeze, 1
+16/12/2022 11:21:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:21:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:21:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:21:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:21:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:21:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:21:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:21:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:21:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:21:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:21:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:22:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:22:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:22:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:22:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:22:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:22:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:22:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:22:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:22:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:22:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:22:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:23:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:23:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:23:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:23:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:23:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:23:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:23:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:23:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:23:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:24:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:24:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:25:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:25:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:53, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:26:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:26:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:44, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:27:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:27:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:17, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:28:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:28:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:29:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:29:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:53, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:30:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:30:59, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:31:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:31:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:17, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:19, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:32:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:32:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:44, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:33:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:33:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:53, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:34:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:34:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:04, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:44, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:35:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:35:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:36:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:36:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:36:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:36:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:36:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:36:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:36:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:36:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:36:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:37:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:37:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:38:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:38:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:31, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:39:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:39:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:40:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:40:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:41:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:41:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:44, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:42:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:42:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:31, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:43:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:43:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:44:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:44:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:17, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:45:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:45:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:46:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:46:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:46:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:46:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:46:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:46:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:46:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:46:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:46:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:46:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:46:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:46:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:46:48, user, 1, 4, "IMU mode", High performance, Normal
+16/12/2022 11:46:49, user, 1, 4, "IMU mode", Normal, Low power
+16/12/2022 11:46:50, user, 1, 4, "IMU mode", Low power, Gyro off
+16/12/2022 11:46:50, user, 1, 4, "IMU mode", Gyro off, All off
+16/12/2022 11:46:51, user, 1, 4, "IMU mode", All off, High performance
+16/12/2022 11:46:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:46:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:48:39, user, 1, 1, "Toggle TX4/TX1,2,3,5", disabled, enabled
+16/12/2022 11:48:40, user, 1, 1, "Toggle TX4/TX1,2,3,5", enabled, disabled
+16/12/2022 11:48:40, user, 1, 1, "Toggle TX4/TX1,2,3,5", disabled, enabled
+16/12/2022 11:48:41, user, 1, 1, "Toggle TX4/TX1,2,3,5", enabled, disabled
+16/12/2022 11:49:45, user, 1, 1, "Mode of work", Normal, RX only
+16/12/2022 11:49:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 11:49:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 11:50:02, user, 1, 2, "Mode of work", Normal, RX only
+16/12/2022 11:50:03, user, 1, 2, "Mode of work", RX only, DSP enabled
+16/12/2022 11:50:03, user, 1, 2, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 11:50:04, user, 1, 2, "Mode of work", TX only 8Hz, Normal
+16/12/2022 11:50:05, user, 1, 2, "Mode of work", Normal, RX only
+16/12/2022 11:50:15, user, 1, 3, "Mode of work", Normal, RX only
+16/12/2022 11:50:23, user, 1, 4, "Mode of work", Normal, RX only
+16/12/2022 11:52:20, user, 1, 4, "Transmitter mode", PWM, user defined pattern
+16/12/2022 11:52:20, user, 1, 4, "Transmitter mode", user defined pattern, phase 180 degrees
+16/12/2022 11:52:21, user, 1, 4, "Transmitter mode", phase 180 degrees, PWM
+16/12/2022 11:52:37, user, 1, 4, "Toggle TX4/TX1,2,3,5", disabled, enabled
+16/12/2022 11:52:38, user, 1, 4, "Toggle TX4/TX1,2,3,5", enabled, disabled
+16/12/2022 11:52:39, user, 1, 4, "Toggle TX4/TX1,2,3,5", disabled, enabled
+16/12/2022 11:52:41, user, 1, 4, "Toggle TX4/TX1,2,3,5", enabled, disabled
+16/12/2022 11:53:12, user, 1, 4, "Mode of work", RX only, DSP enabled
+16/12/2022 11:53:13, user, 1, 4, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 11:53:14, user, 1, 4, "Mode of work", TX only 8Hz, Normal
+16/12/2022 11:53:15, user, 1, 4, "Mode of work", Normal, RX only
+16/12/2022 11:53:19, user, 1, 4, "Mode of work", RX only, DSP enabled
+16/12/2022 11:53:20, user, 1, 4, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 11:53:21, user, 1, 4, "Mode of work", TX only 8Hz, Normal
+16/12/2022 11:53:22, user, 1, 4, "Mode of work", Normal, RX only
+16/12/2022 11:53:23, user, 1, 4, "Mode of work", RX only, DSP enabled
+16/12/2022 11:53:23, user, 1, 4, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 11:53:24, user, 1, 4, "Mode of work", TX only 8Hz, Normal
+16/12/2022 11:53:32, user, 1, 4, "Mode of work", Normal, RX only
+16/12/2022 11:53:33, user, 1, 4, "Mode of work", RX only, DSP enabled
+16/12/2022 11:53:34, user, 1, 4, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 11:53:34, user, 1, 4, "Mode of work", TX only 8Hz, Normal
+16/12/2022 11:53:34, user, 1, 4, "Mode of work", Normal, RX only
+16/12/2022 11:54:15, user, 1, 4, "Reflections filter", disabled, enabled
+16/12/2022 11:54:25, user, 1, 4, "Reflections filter", enabled, disabled
+16/12/2022 11:54:34, user, 1, 4, "Distance option for 2 mics", From one mic, From two mics
+16/12/2022 11:54:35, user, 1, 4, "Distance option for 2 mics", From two mics, Average
+16/12/2022 11:54:36, user, 1, 4, "Distance option for 2 mics", Average, From one mic
+16/12/2022 11:54:55, user, 1, 4, "Pairing mode", no pairing, pair
+16/12/2022 11:54:56, user, 1, 4, "IMU fusion for angle", disabled, enabled
+16/12/2022 11:54:56, user, 1, 4, "Send location of center", disabled, enabled
+16/12/2022 12:20:58, user, 2, 0, map freeze, 0
+16/12/2022 12:21:03, user, 2, 0, map freeze, 1
+16/12/2022 12:21:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:21:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:21:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:21:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:21:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:21:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:21:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:21:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:21:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:21:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:21:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:21:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:21:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:21:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:21:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:21:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:04, user, 1, 1, "Mode of work", RX only, DSP enabled
+16/12/2022 12:22:05, user, 1, 1, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 12:22:05, user, 1, 1, "Mode of work", TX only 8Hz, Normal
+16/12/2022 12:22:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:08, user, 1, 2, "Mode of work", RX only, DSP enabled
+16/12/2022 12:22:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:08, user, 1, 2, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 12:22:09, user, 1, 2, "Mode of work", TX only 8Hz, Normal
+16/12/2022 12:22:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:12, user, 1, 3, "Mode of work", RX only, DSP enabled
+16/12/2022 12:22:12, user, 1, 3, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 12:22:13, user, 1, 3, "Mode of work", TX only 8Hz, Normal
+16/12/2022 12:22:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:18, user, 1, 4, "Mode of work", RX only, DSP enabled
+16/12/2022 12:22:18, user, 1, 4, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 12:22:19, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:19, user, 1, 4, "Mode of work", TX only 8Hz, Normal
+16/12/2022 12:22:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:28, user, 1, 5, "Mode of work", Normal, RX only
+16/12/2022 12:22:28, user, 1, 5, "Mode of work", RX only, DSP enabled
+16/12/2022 12:22:29, user, 1, 5, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 12:22:30, user, 1, 5, "Mode of work", TX only 8Hz, Normal
+16/12/2022 12:22:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:31, user, 1, 5, "Mode of work", Normal, RX only
+16/12/2022 12:22:34, user, 1, 5, "Mode of work", RX only, DSP enabled
+16/12/2022 12:22:34, user, 1, 5, "Mode of work", DSP enabled, TX only 8Hz
+16/12/2022 12:22:35, user, 1, 5, "Mode of work", TX only 8Hz, Normal
+16/12/2022 12:22:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:22:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:22:59, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:12, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:53, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:23:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:23:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:24:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:24:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:24:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:24:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:24:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:24:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:24:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:24:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:24:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:24:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:24:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:24:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+16/12/2022 12:24:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+16/12/2022 12:24:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0

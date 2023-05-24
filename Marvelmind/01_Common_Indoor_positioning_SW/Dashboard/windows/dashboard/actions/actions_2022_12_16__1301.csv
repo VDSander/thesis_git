@@ -1,0 +1,22 @@
+16.12.2022 13:01:24, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+16.12.2022 13:01:31, user, 1, 5, "Streaming output", USB+UART, USB+UART/Bluetooth
+16.12.2022 13:01:32, user, 1, 5, "Streaming output", USB+UART/Bluetooth, Disabled
+16.12.2022 13:01:33, user, 1, 5, "Streaming output", Disabled, USB only
+16.12.2022 13:01:34, user, 1, 5, "Streaming output", USB only, USB+UART
+16.12.2022 13:01:40, user, 1, 5, "Protocol on UART/USB output", NMEA 0183, Testing data
+16.12.2022 13:01:41, user, 1, 5, "Protocol on UART/USB output", Testing data, DMX512
+16.12.2022 13:01:42, user, 1, 5, "Protocol on UART/USB output", DMX512, UBX (u-blox)
+16.12.2022 13:01:43, user, 1, 5, "Protocol on UART/USB output", UBX (u-blox), Radio RX
+16.12.2022 13:01:43, user, 1, 5, "Protocol on UART/USB output", Radio RX, Marvelmind+timings
+16.12.2022 13:01:44, user, 1, 5, "Protocol on UART/USB output", Marvelmind+timings, Marvelmind
+16.12.2022 13:01:48, user, 1, 5, "PB4 pin function", SPI MISO, PPS output
+16.12.2022 13:01:49, user, 1, 5, "PB4 pin function", PPS output, SPI MISO
+16.12.2022 13:01:50, user, 1, 5, "PB4 pin function", SPI MISO, PPS output
+16.12.2022 13:01:51, user, 1, 5, "PB4 pin function", PPS output, SPI MISO
+16.12.2022 13:01:57, user, 1, 5, "UART speed, bps", 9600, 19200
+16.12.2022 13:01:58, user, 1, 5, "UART speed, bps", 19200, 38400
+16.12.2022 13:01:59, user, 1, 5, "UART speed, bps", 38400, 57600
+16.12.2022 13:02:00, user, 1, 5, "UART speed, bps", 57600, 115200
+16.12.2022 13:02:01, user, 1, 5, "UART speed, bps", 115200, 500000
+16.12.2022 13:02:02, user, 1, 5, "UART speed, bps", 500000, 4800
+16.12.2022 13:02:03, user, 1, 5, "UART speed, bps", 4800, 9600

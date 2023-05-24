@@ -1,0 +1,253 @@
+03.04.2023 13:24:54, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+03.04.2023 13:25:12, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+03.04.2023 13:25:12, user, 1, 1, "Extrapolation", enabled, disabled
+03.04.2023 13:25:12, user, 1, 0, "Service zones visible", disabled, enabled
+03.04.2023 13:25:12, user, 1, 0, "Service zones active", disabled, enabled
+03.04.2023 13:25:12, user, 1, 1, "Samples number (1..10)", 3, 0
+03.04.2023 13:25:12, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+03.04.2023 13:25:12, user, 1, 1, "Window of averaging (0..16)", 0, 4
+03.04.2023 13:25:12, user, 1, 1, "Distance filter (0..16)", 8, 0
+03.04.2023 13:25:12, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+03.04.2023 13:25:12, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+03.04.2023 13:25:12, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+03.04.2023 13:25:12, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+03.04.2023 13:25:13, user, 10, 6, device sleep, 
+03.04.2023 13:25:14, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+03.04.2023 13:25:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:25:29, user, 11, 7, device wake, 
+03.04.2023 13:25:29, user, 11, 7, device wake, 
+03.04.2023 13:25:47, user, 1, 7, "Hedgehog mode", disabled, enabled
+03.04.2023 13:25:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:26:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:26:31, user, 10, 6, device sleep, 
+03.04.2023 13:26:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:27:24, user, 11, 5, device wake, 
+03.04.2023 13:27:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:32:34, user, 1, 5, "Pairing mode", no pairing, pair
+03.04.2023 13:32:35, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 13:32:35, user, 1, 5, "Send location of center", disabled, enabled
+03.04.2023 13:32:38, user, 1, 5, "Address of paired hedge (1..255)", 1, 7
+03.04.2023 13:32:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:32:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:32:56, user, 1, 5, "IMU fusion for angle", enabled, disabled
+03.04.2023 13:32:57, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 13:33:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:33:35, user, 1, 7, "Pairing mode", pair, no pairing
+03.04.2023 13:33:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:33:38, user, 1, 5, "Pairing mode", no pairing, pair
+03.04.2023 13:33:39, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 13:33:39, user, 1, 5, "Send location of center", disabled, enabled
+03.04.2023 13:33:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:33:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:33:44, user, 1, 5, "Pairing mode", pair, no pairing
+03.04.2023 13:38:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:38:35, user, 10, 5, device sleep, 
+03.04.2023 13:39:19, user, 11, 5, device wake, 
+03.04.2023 13:39:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:40:08, user, 1, 1, "Hedgehog mode", disabled, enabled
+03.04.2023 13:42:37, user, 1, 7, "Rotation, degrees", 48.0, 0.0
+03.04.2023 13:48:16, user, 13, 7, device zero IMU, 
+03.04.2023 13:48:17, user, 13, 7, device zero IMU, 
+03.04.2023 13:48:22, user, 1, 7, "Hedgehog mode", enabled, disabled
+03.04.2023 13:48:25, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+03.04.2023 13:48:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:48:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:48:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:48:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:48:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:48:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:48:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:48:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:48:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:49:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:49:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:51:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:51:42, user, 2, 0, map freeze, 0
+03.04.2023 13:51:49, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+03.04.2023 13:52:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 13:52:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 13:53:19, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+03.04.2023 13:53:40, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+03.04.2023 13:54:50, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+03.04.2023 13:55:30, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 31000, 37000
+03.04.2023 13:56:36, user, 10, 7, device sleep, 
+03.04.2023 13:56:39, user, 11, 7, device wake, 
+03.04.2023 13:56:50, user, 14, 6, device remove from network, 
+03.04.2023 13:57:42, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 37000, 36000
+03.04.2023 14:01:49, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 36000, 31000
+03.04.2023 14:02:18, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+03.04.2023 14:02:47, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+03.04.2023 14:02:52, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 31000, 22000
+03.04.2023 14:03:45, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 22000, 25000
+03.04.2023 14:05:08, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 25000, 28000
+03.04.2023 14:05:41, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 28000, 31000
+03.04.2023 14:09:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:10:51, user, 1, 5, "Pairing mode", no pairing, pair
+03.04.2023 14:10:51, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:10:51, user, 1, 5, "Send location of center", disabled, enabled
+03.04.2023 14:11:07, user, 1, 5, "Address of paired hedge (1..255)", 1, 7
+03.04.2023 14:11:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:11:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:11:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:11:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:11:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:11:31, user, 2, 0, map freeze, 1
+03.04.2023 14:12:28, user, 1, 7, "Send location of center", enabled, disabled
+03.04.2023 14:12:28, user, 1, 7, "Send location of center", disabled, enabled
+03.04.2023 14:12:29, user, 1, 7, "Send location of center", enabled, disabled
+03.04.2023 14:12:31, user, 1, 7, "Send location of center", disabled, enabled
+03.04.2023 14:12:58, user, 1, 7, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:14:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:14:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:14:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:14:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:14:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:14:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:14:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:15:01, user, 1, 5, "IMU fusion for angle", enabled, disabled
+03.04.2023 14:15:04, user, 1, 5, "Send location of center", enabled, disabled
+03.04.2023 14:15:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:15:07, user, 1, 7, "Send location of center", enabled, disabled
+03.04.2023 14:15:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:15:10, user, 1, 5, "Send location of center", disabled, enabled
+03.04.2023 14:15:10, user, 1, 5, "Send location of center", enabled, disabled
+03.04.2023 14:15:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:15:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:15:59, user, 1, 5, "Location againist center", left, right
+03.04.2023 14:16:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:16:06, user, 1, 7, "Base of the pair, cm (1..255)", 10, 20
+03.04.2023 14:16:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:16:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:16:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:16:19, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:16:21, user, 13, 5, device zero IMU, 
+03.04.2023 14:16:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:16:28, user, 13, 7, device zero IMU, 
+03.04.2023 14:18:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:18:08, user, 2, 0, map freeze, 0
+03.04.2023 14:18:11, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+03.04.2023 14:18:13, user, 13, 5, device zero IMU, 
+03.04.2023 14:18:15, user, 2, 0, map freeze, 1
+03.04.2023 14:18:37, user, 2, 0, map freeze, 0
+03.04.2023 14:18:40, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+03.04.2023 14:18:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:18:58, user, 1, 7, "IMU fusion for angle", enabled, disabled
+03.04.2023 14:19:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:19:31, user, 2, 0, map freeze, 1
+03.04.2023 14:20:23, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:20:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:20:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:20:29, user, 2, 0, map freeze, 0
+03.04.2023 14:20:31, user, 1, 5, "IMU mode", High performance, Normal
+03.04.2023 14:20:32, user, 1, 5, "IMU mode", Normal, Low power
+03.04.2023 14:20:33, user, 1, 5, "IMU mode", Low power, Gyro off
+03.04.2023 14:20:34, user, 1, 5, "IMU mode", Gyro off, All off
+03.04.2023 14:20:35, user, 1, 5, "IMU mode", All off, High performance
+03.04.2023 14:20:35, user, 1, 5, "IMU mode", High performance, Normal
+03.04.2023 14:20:37, user, 1, 5, "IMU mode", Normal, Low power
+03.04.2023 14:20:39, user, 1, 5, "IMU mode", Low power, Gyro off
+03.04.2023 14:20:39, user, 1, 5, "IMU mode", Gyro off, Low power
+03.04.2023 14:20:40, user, 1, 5, "IMU mode", Low power, Gyro off
+03.04.2023 14:20:42, user, 1, 5, "IMU mode", Gyro off, All off
+03.04.2023 14:20:42, user, 1, 5, "IMU mode", All off, High performance
+03.04.2023 14:20:43, user, 1, 5, "IMU mode", High performance, Normal
+03.04.2023 14:20:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:20:48, user, 1, 7, "IMU mode", High performance, Normal
+03.04.2023 14:20:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:21:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:21:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:22:23, user, 2, 0, map freeze, 1
+03.04.2023 14:22:37, user, 2, 0, map freeze, 0
+03.04.2023 14:22:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:22:42, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 31000, 37000
+03.04.2023 14:24:22, user, 10, 7, device sleep, 
+03.04.2023 14:24:24, user, 11, 7, device wake, 
+03.04.2023 14:24:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:24:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:24:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:24:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:24:54, user, 1, 7, "Power save functions", enabled / active, disabled
+03.04.2023 14:24:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:25:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:26:08, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 37000, 31000
+03.04.2023 14:27:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:27:16, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+03.04.2023 14:27:17, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:27:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:27:43, user, 1, 5, "Base of the pair, cm (1..255)", 20, 10
+03.04.2023 14:27:45, user, 13, 5, device zero IMU, 
+03.04.2023 14:27:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:27:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:27:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:27:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:28:01, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+03.04.2023 14:28:12, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:28:25, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+03.04.2023 14:28:38, user, 2, 0, map freeze, 1
+03.04.2023 14:28:54, user, 10, 5, device sleep, 
+03.04.2023 14:29:02, user, 10, 7, device sleep, 
+03.04.2023 14:29:04, user, 11, 7, device wake, 
+03.04.2023 14:29:26, user, 11, 5, device wake, 
+03.04.2023 14:29:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:29:37, user, 10, 5, device sleep, 
+03.04.2023 14:29:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:30:04, user, 1, 7, "Pairing mode", pair, no pairing
+03.04.2023 14:30:06, user, 1, 7, "Send location of center", disabled, enabled
+03.04.2023 14:30:13, user, 11, 5, device wake, 
+03.04.2023 14:30:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:30:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:30:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:30:27, user, 1, 5, "Pairing mode", pair, no pairing
+03.04.2023 14:30:28, user, 1, 5, "Send location of center", disabled, enabled
+03.04.2023 14:30:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:30:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:30:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:31:11, user, 2, 0, map freeze, 0
+03.04.2023 14:31:16, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 25000, 37000
+03.04.2023 14:33:09, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 37000, 31000
+03.04.2023 14:33:11, user, 13, 7, device zero IMU, 
+03.04.2023 14:33:12, user, 13, 7, device zero IMU, 
+03.04.2023 14:33:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:33:50, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+03.04.2023 14:34:23, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+03.04.2023 14:34:59, user, 1, 5, "Pairing mode", no pairing, pair
+03.04.2023 14:35:00, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:35:00, user, 1, 5, "Send location of center", disabled, enabled
+03.04.2023 14:35:03, user, 1, 5, "Address of paired hedge (1..255)", 1, 7
+03.04.2023 14:35:03, user, 1, 5, "Location againist center", left, right
+03.04.2023 14:35:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:35:06, user, 1, 7, "Pairing mode", pair, no pairing
+03.04.2023 14:35:07, user, 1, 7, "Pairing mode", no pairing, pair
+03.04.2023 14:35:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:35:14, user, 1, 5, "IMU fusion for angle", enabled, disabled
+03.04.2023 14:35:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:35:28, user, 1, 7, "Send location of center", enabled, disabled
+03.04.2023 14:35:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:35:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:36:18, user, 1, 7, "Pairing mode", pair, no pairing
+03.04.2023 14:36:19, user, 1, 7, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:36:19, user, 1, 7, "Send location of center", disabled, enabled
+03.04.2023 14:36:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:36:21, user, 1, 5, "Pairing mode", no pairing, pair
+03.04.2023 14:36:22, user, 1, 5, "Pairing mode", pair, no pairing
+03.04.2023 14:36:23, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:36:23, user, 1, 5, "Send location of center", disabled, enabled
+03.04.2023 14:36:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:36:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:36:56, user, 1, 7, "Pairing mode", no pairing, pair
+03.04.2023 14:36:57, user, 1, 7, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:36:57, user, 1, 7, "Send location of center", disabled, enabled
+03.04.2023 14:37:01, user, 1, 7, "Address of paired hedge (1..255)", 1, 5
+03.04.2023 14:37:03, user, 1, 5, "Pairing mode", no pairing, pair
+03.04.2023 14:37:04, user, 1, 5, "IMU fusion for angle", disabled, enabled
+03.04.2023 14:37:04, user, 1, 5, "Send location of center", disabled, enabled
+03.04.2023 14:37:06, user, 1, 5, "Address of paired hedge (1..255)", 1, 7
+03.04.2023 14:37:10, user, 1, 5, "IMU fusion for angle", enabled, disabled
+03.04.2023 14:37:12, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:37:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:37:20, user, 1, 5, "IMU mode", Normal, Low power
+03.04.2023 14:37:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+03.04.2023 14:37:25, user, 1, 7, "IMU mode", Normal, Low power
+03.04.2023 14:39:50, user, 1, 7, "IMU mode", Low power, Gyro off
+03.04.2023 14:39:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+03.04.2023 14:39:57, user, 1, 5, "IMU mode", Low power, Gyro off

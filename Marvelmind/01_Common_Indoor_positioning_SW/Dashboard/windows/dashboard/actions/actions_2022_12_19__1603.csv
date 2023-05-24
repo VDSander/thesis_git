@@ -1,0 +1,140 @@
+19.12.2022 16:03:47, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+19.12.2022 16:03:50, user, 1, 5, "Rotation, degrees", 0.0, 176.0
+19.12.2022 16:03:50, user, 1, 5, "Location update rate", 16 Hz, 8 Hz
+19.12.2022 16:03:50, user, 1, 5, "Extrapolation", enabled, disabled
+19.12.2022 16:03:50, user, 1, 0, "Service zones visible", disabled, enabled
+19.12.2022 16:03:50, user, 1, 0, "Service zones active", disabled, enabled
+19.12.2022 16:03:50, user, 1, 5, "Samples number (1..10)", 3, 0
+19.12.2022 16:03:50, user, 1, 5, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+19.12.2022 16:03:50, user, 1, 5, "Window of averaging (0..16)", 0, 4
+19.12.2022 16:03:50, user, 1, 5, "Distance filter (0..16)", 8, 0
+19.12.2022 16:03:50, user, 1, 5, "Max. hedges readout per cycle (1..255)", 10, 0
+19.12.2022 16:03:50, user, 1, 5, "Jitter granularity, ms (1..16)", 3, 1
+19.12.2022 16:03:50, user, 1, 5, "Jitter area, % (0..50)", 25, 0
+19.12.2022 16:03:50, user, 1, 5, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+19.12.2022 16:03:59, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:04:00, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:04:02, user, 7, 0, erase map, 0
+19.12.2022 16:04:03, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\maps\submap0.ini
+19.12.2022 16:04:03, user, 1, 5, "Device address (1..254)", 5, 1
+19.12.2022 16:04:03, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+19.12.2022 16:04:03, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+19.12.2022 16:04:03, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+19.12.2022 16:04:03, user, 11, 1, device wake, 
+19.12.2022 16:04:03, user, 11, 2, device wake, 
+19.12.2022 16:04:03, user, 11, 3, device wake, 
+19.12.2022 16:04:03, user, 11, 4, device wake, 
+19.12.2022 16:04:13, user, 11, 1, device wake, 
+19.12.2022 16:04:13, user, 11, 3, device wake, 
+19.12.2022 16:04:13, user, 11, 4, device wake, 
+19.12.2022 16:04:17, user, 11, 2, device wake, 
+19.12.2022 16:04:22, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:04:25, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:04:26, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:04:31, user, 11, 5, device wake, 
+19.12.2022 16:04:31, user, 11, 5, device wake, 
+19.12.2022 16:04:34, user, 2, 0, map freeze, 1
+19.12.2022 16:05:50, user, 1, 5, "Hedgehog mode", disabled, enabled
+19.12.2022 16:05:55, user, 1, 5, "Rotation, degrees", 48.0, 0.0
+19.12.2022 16:06:00, user, 12, 5, device default, 
+19.12.2022 16:06:16, user, 12, 5, device default, 
+19.12.2022 16:06:32, user, 9, 5, device reset, 
+19.12.2022 16:06:42, user, 1, 5, "Hedgehog mode", disabled, enabled
+19.12.2022 16:06:59, user, 1, 5, "Hedgehog mode", enabled, disabled
+19.12.2022 16:07:02, user, 1, 5, "Rotation, degrees", 0.0, 48.0
+19.12.2022 16:07:04, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:07:06, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:07:13, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:07:15, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:07:16, user, 11, 14, device wake, 
+19.12.2022 16:07:17, user, 11, 14, device wake, 
+19.12.2022 16:07:17, user, 11, 14, device wake, 
+19.12.2022 16:07:18, user, 11, 5, device wake, 
+19.12.2022 16:07:18, user, 11, 5, device wake, 
+19.12.2022 16:07:22, user, 11, 5, device wake, 
+19.12.2022 16:07:23, user, 11, 5, device wake, 
+19.12.2022 16:07:30, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:07:32, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:07:33, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:07:34, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:07:35, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:07:36, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:07:38, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:07:39, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:07:42, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:07:43, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:07:46, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:07:47, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:07:52, user, 1, 5, "Hedgehog mode", disabled, enabled
+19.12.2022 16:07:55, user, 1, 5, "Rotation, degrees", 48.0, 0.0
+19.12.2022 16:08:04, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 39000
+19.12.2022 16:08:25, user, 1, 5, "Rotation, degrees", 0.0, 48.0
+19.12.2022 16:08:29, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:08:30, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:08:34, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:08:36, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:08:37, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:08:38, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:08:41, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:08:42, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:08:44, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:08:46, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:08:47, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:08:48, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:08:49, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:08:52, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:08:54, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:08:55, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:08:58, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:09:00, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:09:01, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:09:03, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:09:06, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:09:07, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:09:16, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:09:17, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:09:23, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:09:24, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:09:28, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:09:29, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:09:30, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:09:32, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:09:36, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:09:37, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:09:49, user, 12, 5, device default, 
+19.12.2022 16:10:38, user, 9, 5, device reset, 
+19.12.2022 16:10:55, user, 1, 5, "Hedgehog mode", disabled, enabled
+19.12.2022 16:11:08, user, 9, 5, device reset, 
+19.12.2022 16:11:25, user, 1, 5, "Rotation, degrees", 0.0, 176.0
+19.12.2022 16:11:30, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:11:35, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:11:39, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:11:40, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:11:41, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:11:43, user, 9, 5, device reset, 
+19.12.2022 16:11:48, user, 1, 5, "Rotation, degrees", 48.0, 0.0
+19.12.2022 16:11:50, user, 1, 5, "Rotation, degrees", 0.0, 48.0
+19.12.2022 16:11:51, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:11:53, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:11:54, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:11:59, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:02, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:03, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:05, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:06, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:07, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:08, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:10, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:11, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:13, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:15, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:18, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:19, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:22, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:25, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:26, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:28, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:29, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:31, user, 1, 5, "Rotation, degrees", 176.0, 48.0
+19.12.2022 16:12:34, user, 1, 5, "Rotation, degrees", 48.0, 176.0
+19.12.2022 16:12:36, user, 1, 5, "Rotation, degrees", 176.0, 48.0

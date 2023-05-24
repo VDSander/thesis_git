@@ -1,0 +1,8 @@
+19.12.2022 13:12:43, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+19.12.2022 13:13:41, user, 1, 6, "External device control", No control, General robot control
+19.12.2022 13:13:42, user, 1, 6, "External device control", General robot control, Worker
+19.12.2022 13:13:43, user, 1, 6, "External device control", Worker, No control
+19.12.2022 13:13:44, user, 1, 6, "External device control", No control, General robot control
+19.12.2022 13:13:46, user, 1, 6, "External device control", General robot control, Worker
+19.12.2022 13:13:51, user, 1, 6, "External device control", Worker, No control
+19.12.2022 13:13:57, user, 1, 6, "PB4 pin function", PPS output, SPI MISO

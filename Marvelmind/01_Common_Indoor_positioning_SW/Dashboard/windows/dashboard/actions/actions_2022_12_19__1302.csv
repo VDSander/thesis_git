@@ -1,0 +1,56 @@
+19.12.2022 13:02:11, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+19.12.2022 13:02:15, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+19.12.2022 13:02:15, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+19.12.2022 13:02:15, user, 1, 1, "Extrapolation", enabled, disabled
+19.12.2022 13:02:15, user, 1, 0, "Service zones visible", disabled, enabled
+19.12.2022 13:02:15, user, 1, 0, "Service zones active", disabled, enabled
+19.12.2022 13:02:15, user, 1, 1, "Samples number (1..10)", 3, 0
+19.12.2022 13:02:15, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+19.12.2022 13:02:15, user, 1, 1, "Window of averaging (0..16)", 0, 4
+19.12.2022 13:02:15, user, 1, 1, "Distance filter (0..16)", 8, 0
+19.12.2022 13:02:15, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+19.12.2022 13:02:15, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+19.12.2022 13:02:15, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+19.12.2022 13:02:15, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+19.12.2022 13:02:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:02:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:02:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:02:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:02:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:02:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:03:33, user, 1, 6, "Mode of work", Normal, RX only
+19.12.2022 13:03:33, user, 1, 6, "Mode of work", RX only, DSP enabled
+19.12.2022 13:03:34, user, 1, 6, "Mode of work", DSP enabled, TX only 8Hz
+19.12.2022 13:03:35, user, 1, 6, "Mode of work", TX only 8Hz, Normal
+19.12.2022 13:03:36, user, 1, 6, "Analog power in sleep", disabled, enabled
+19.12.2022 13:03:37, user, 1, 6, "Analog power in sleep", enabled, disabled
+19.12.2022 13:03:37, user, 1, 6, "Analog power in sleep", disabled, enabled
+19.12.2022 13:03:39, user, 1, 6, "Analog power in sleep", enabled, disabled
+19.12.2022 13:03:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:04:10, user, 1, 4, "Power save functions", disabled, enabled / active
+19.12.2022 13:04:11, user, 1, 4, "Power save functions", enabled / active, disabled
+19.12.2022 13:04:12, user, 1, 4, "Power save functions", disabled, enabled / active
+19.12.2022 13:04:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:04:16, user, 1, 6, "Power save functions", disabled, enabled / active
+19.12.2022 13:04:19, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:04:21, user, 1, 3, "Power save functions", disabled, enabled / active
+19.12.2022 13:04:24, user, 1, 2, "Power save functions", disabled, enabled / active
+19.12.2022 13:04:31, user, 1, 1, "Power save functions", disabled, enabled / active
+19.12.2022 13:04:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:04:51, user, 11, 5, device wake, 
+19.12.2022 13:05:44, user, 1, 6, "Ay zero", 4, 0
+19.12.2022 13:05:44, user, 1, 6, "Az zero", 38, 0
+19.12.2022 13:05:44, user, 1, 6, "Ax K", 1.002, 1.000
+19.12.2022 13:05:44, user, 1, 6, "Ay K", 0.996, 1.000
+19.12.2022 13:05:44, user, 1, 6, "Az K", 0.995, 1.000
+19.12.2022 13:05:49, user, 1, 6, "Ax K", 1.000, 0.000
+19.12.2022 13:05:49, user, 1, 6, "Ay K", 1.000, 0.000
+19.12.2022 13:05:49, user, 1, 6, "Az K", 1.000, 0.000
+19.12.2022 13:05:50, user, 1, 6, "Ax K", 0.000, 1.000
+19.12.2022 13:05:50, user, 1, 6, "Ay K", 0.000, 1.000
+19.12.2022 13:05:50, user, 1, 6, "Az K", 0.000, 1.000
+19.12.2022 13:08:52, user, 1, 6, "Ay zero", 0, 2
+19.12.2022 13:08:52, user, 1, 6, "Az zero", 0, 35
+19.12.2022 13:08:52, user, 1, 6, "Ax K", 1.000, 1.003
+19.12.2022 13:08:52, user, 1, 6, "Ay K", 1.000, 0.997
+19.12.2022 13:08:52, user, 1, 6, "Az K", 1.000, 0.993

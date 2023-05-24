@@ -1,0 +1,664 @@
+13.12.2022 15:44:21, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+13.12.2022 15:44:24, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+13.12.2022 15:44:24, user, 1, 1, "Extrapolation", enabled, disabled
+13.12.2022 15:44:24, user, 1, 0, "Service zones visible", disabled, enabled
+13.12.2022 15:44:24, user, 1, 0, "Service zones active", disabled, enabled
+13.12.2022 15:44:24, user, 1, 1, "Samples number (1..10)", 3, 0
+13.12.2022 15:44:24, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+13.12.2022 15:44:24, user, 1, 1, "Window of averaging (0..16)", 0, 4
+13.12.2022 15:44:24, user, 1, 1, "Distance filter (0..16)", 8, 0
+13.12.2022 15:44:24, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+13.12.2022 15:44:24, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+13.12.2022 15:44:24, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+13.12.2022 15:44:24, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+13.12.2022 15:44:35, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+13.12.2022 15:44:58, user, 3, 0, submap freeze, 0
+13.12.2022 15:45:04, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 6.00, 7.00
+13.12.2022 15:45:04, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 7.00, 8.00
+13.12.2022 15:45:05, user, 11, 4, device wake, 
+13.12.2022 15:45:06, user, 11, 3, device wake, 
+13.12.2022 15:45:07, user, 11, 2, device wake, 
+13.12.2022 15:45:07, user, 11, 1, device wake, 
+13.12.2022 15:46:20, user, 18, 1, add submap, 
+13.12.2022 15:46:20, user, 1, 0, "1D/2D/3D", 1D, none (no beacons)
+13.12.2022 15:46:25, user, 19, 1, remove submap, 
+13.12.2022 15:46:26, user, 1, 0, "1D/2D/3D", none (no beacons), 1D
+13.12.2022 15:46:33, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 8.00, 9.00
+13.12.2022 15:46:33, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 9.00, 10.00
+13.12.2022 15:46:33, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 10.00, 11.00
+13.12.2022 15:46:33, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 11.00, 12.00
+13.12.2022 15:46:34, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 12.00, 13.00
+13.12.2022 15:46:34, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 13.00, 14.00
+13.12.2022 15:46:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 15:47:37, user, 1, 3, "Radio channel", 3, 0
+13.12.2022 15:47:38, user, 10, 3, device sleep, 
+13.12.2022 15:47:40, user, 1, 3, "Rotation, degrees", 176.0, 0.0
+13.12.2022 15:47:44, user, 1, 3, "Radio channel", 3, 0
+13.12.2022 15:47:44, user, 10, 3, device sleep, 
+13.12.2022 15:47:54, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+13.12.2022 15:47:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 15:48:40, user, 11, 1, device wake, 
+13.12.2022 15:48:41, user, 11, 2, device wake, 
+13.12.2022 15:48:42, user, 11, 3, device wake, 
+13.12.2022 15:48:43, user, 11, 3, device wake, 
+13.12.2022 15:48:45, user, 11, 4, device wake, 
+13.12.2022 15:49:07, user, 11, 2, device wake, 
+13.12.2022 15:49:08, user, 11, 2, device wake, 
+13.12.2022 15:49:09, user, 11, 2, device wake, 
+13.12.2022 15:49:09, user, 11, 2, device wake, 
+13.12.2022 15:49:22, user, 11, 3, device wake, 
+13.12.2022 15:49:33, user, 11, 3, device wake, 
+13.12.2022 15:49:33, user, 11, 3, device wake, 
+13.12.2022 15:49:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 15:49:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 15:51:05, user, 3, 0, submap freeze, 1
+13.12.2022 15:51:06, user, 2, 0, map freeze, 1
+13.12.2022 15:51:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 15:51:08, user, 2, 0, map freeze, 0
+13.12.2022 15:51:10, user, 3, 0, submap freeze, 0
+13.12.2022 15:51:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 15:51:11, user, 3, 0, submap freeze, 1
+13.12.2022 15:51:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 15:51:18, user, 5, 0, submap mirror, 1
+13.12.2022 15:51:18, user, 5, 0, submap mirror, 0
+13.12.2022 15:51:19, user, 5, 0, submap mirror, 1
+13.12.2022 15:51:20, user, 5, 0, submap mirror, 0
+13.12.2022 15:51:35, user, 11, 3, device wake, 
+13.12.2022 15:51:36, user, 1, 1, "Rotation, degrees", 48.0, 8.0
+13.12.2022 15:51:50, user, 1, 1, "Rotation, degrees", 8.0, 48.0
+13.12.2022 15:56:47, user, 11, 3, device wake, 
+13.12.2022 15:57:40, user, 1, 1, "Rotation, degrees", 48.0, 0.0
+13.12.2022 15:57:42, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+13.12.2022 15:57:48, user, 1, 1, "Rotation, degrees", 176.0, 0.0
+13.12.2022 15:57:52, user, 11, 4, device wake, 
+13.12.2022 15:57:52, user, 11, 3, device wake, 
+13.12.2022 15:57:53, user, 11, 1, device wake, 
+13.12.2022 15:57:54, user, 11, 1, device wake, 
+13.12.2022 15:57:54, user, 11, 2, device wake, 
+13.12.2022 15:57:58, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+13.12.2022 16:00:42, user, 12, 1, device default, 
+13.12.2022 16:00:48, user, 11, 3, device wake, 
+13.12.2022 16:00:53, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+13.12.2022 16:00:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:00:55, user, 11, 3, device wake, 
+13.12.2022 16:01:26, user, 1, 3, "Rotation, degrees", 48.0, 0.0
+13.12.2022 16:01:27, user, 12, 3, device default, 
+13.12.2022 16:01:46, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+13.12.2022 16:01:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:01:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:01:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:01:55, user, 11, 3, device wake, 
+13.12.2022 16:02:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:02:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:03:30, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:04:25, user, 3, 0, submap freeze, 0
+13.12.2022 16:04:26, user, 3, 0, submap freeze, 1
+13.12.2022 16:04:26, user, 1, 0, "1D/2D/3D", 1D, 2D
+13.12.2022 16:04:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:04:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:04:38, user, 10, 3, device sleep, 
+13.12.2022 16:04:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:04:39, user, 11, 3, device wake, 
+13.12.2022 16:04:53, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:05:46, user, 12, 4, device default, 
+13.12.2022 16:06:14, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+13.12.2022 16:06:15, user, 11, 4, device wake, 
+13.12.2022 16:06:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:06:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:06:48, user, 3, 0, submap freeze, 0
+13.12.2022 16:06:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:06:56, user, 3, 0, submap freeze, 1
+13.12.2022 16:06:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:07:15, user, 10, 3, device sleep, 
+13.12.2022 16:07:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:07:17, user, 11, 3, device wake, 
+13.12.2022 16:07:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:08:26, user, 12, 1, device default, 
+13.12.2022 16:08:50, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+13.12.2022 16:08:51, user, 11, 1, device wake, 
+13.12.2022 16:08:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:08:57, user, 1, 1, "Ax K", 0.000, 1.000
+13.12.2022 16:08:57, user, 1, 1, "Ay K", 0.000, 1.000
+13.12.2022 16:08:57, user, 1, 1, "Az K", 0.000, 1.000
+13.12.2022 16:08:57, user, 1, 1, "IMU weight for angle", 40, 10
+13.12.2022 16:08:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:10:20, user, 12, 2, device default, 
+13.12.2022 16:10:40, user, 11, 2, device wake, 
+13.12.2022 16:10:45, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+13.12.2022 16:12:40, user, 15, 1, position setup, 9.387,-3.685,2.220
+13.12.2022 16:13:02, user, 15, 2, position setup, 0.000,-3.685,2.220
+13.12.2022 16:13:35, user, 10, 1, device sleep, 
+13.12.2022 16:13:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:13:37, user, 11, 1, device wake, 
+13.12.2022 16:13:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:14:50, user, 3, 0, submap freeze, 0
+13.12.2022 16:14:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:32, user, 15, 4, position setup, 9.387,0.000,2.220
+13.12.2022 16:15:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:15:50, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:15:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:16:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:16:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:16:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:16:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:16:10, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:16:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:16:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:16:20, user, 3, 0, submap freeze, 1
+13.12.2022 16:16:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:16:21, user, 2, 0, map freeze, 1
+13.12.2022 16:16:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:16:27, user, 2, 0, map freeze, 0
+13.12.2022 16:16:40, user, 10, 2, device sleep, 
+13.12.2022 16:16:41, user, 11, 2, device wake, 
+13.12.2022 16:16:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:16:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:16:56, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:16:57, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:17:03, user, 17, 5, remove from submap, 0
+13.12.2022 16:17:06, user, 10, 2, device sleep, 
+13.12.2022 16:17:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:17:08, user, 11, 2, device wake, 
+13.12.2022 16:17:14, user, 16, 2, add to submap, 0
+13.12.2022 16:17:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:17:29, user, 10, 5, device sleep, 
+13.12.2022 16:17:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:17:29, user, 11, 5, device wake, 
+13.12.2022 16:17:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:17:59, user, 3, 0, submap freeze, 0
+13.12.2022 16:18:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:18:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:18:07, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:18:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:18:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:18:18, user, 15, 4, position setup, 9.387,0.000,2.220
+13.12.2022 16:18:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:18:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:18:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:18:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:18:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:18:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:18:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:18:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:18:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:18:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:18:47, user, 15, 1, position setup, 9.387,-3.685,2.220
+13.12.2022 16:18:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:18:53, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:19:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:19:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:19:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:19:07, user, 15, 2, position setup, 0.000,-3.685,2.220
+13.12.2022 16:19:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:19:12, user, 3, 0, submap freeze, 1
+13.12.2022 16:19:19, user, 3, 0, submap freeze, 0
+13.12.2022 16:19:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:19:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:19:31, user, 18, 1, add submap, 
+13.12.2022 16:19:31, user, 1, 0, "1D/2D/3D", 2D, none (no beacons)
+13.12.2022 16:19:31, user, 1, 0, "1D/2D/3D", none (no beacons), 1D
+13.12.2022 16:19:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:19:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:19:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:19:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:19:42, user, 10, 5, device sleep, 
+13.12.2022 16:19:43, user, 11, 5, device wake, 
+13.12.2022 16:19:44, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:19:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:00, user, 15, 5, position setup, 1.370,-1.910,0.000 auto
+13.12.2022 16:20:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:04, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:12, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:32, user, 3, 0, submap freeze, 1
+13.12.2022 16:20:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:20:35, user, 3, 1, submap freeze, 1
+13.12.2022 16:20:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:20:41, user, 2, 0, map freeze, 1
+13.12.2022 16:20:54, user, 2, 0, map freeze, 0
+13.12.2022 16:21:11, user, 3, 1, submap freeze, 0
+13.12.2022 16:21:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:21:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:21:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:21:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:21:26, user, 3, 1, submap freeze, 1
+13.12.2022 16:21:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:21:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:23:36, user, 3, 0, submap freeze, 0
+13.12.2022 16:23:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:23:40, user, 3, 0, submap freeze, 1
+13.12.2022 16:23:41, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:24:21, user, 10, 3, device sleep, 
+13.12.2022 16:24:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:24:22, user, 11, 3, device wake, 
+13.12.2022 16:24:25, user, 10, 4, device sleep, 
+13.12.2022 16:24:26, user, 10, 4, device sleep, 
+13.12.2022 16:24:27, user, 11, 4, device wake, 
+13.12.2022 16:24:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:24:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:24:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:25:20, user, 2, 0, map freeze, 1
+13.12.2022 16:25:25, user, 3, 1, submap freeze, 0
+13.12.2022 16:25:25, user, 2, 0, map freeze, 0
+13.12.2022 16:25:27, user, 3, 1, submap freeze, 1
+13.12.2022 16:25:34, user, 2, 0, map freeze, 1
+13.12.2022 16:26:37, user, 10, 3, device sleep, 
+13.12.2022 16:26:38, user, 11, 3, device wake, 
+13.12.2022 16:26:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:26:45, user, 2, 0, map freeze, 0
+13.12.2022 16:26:48, user, 3, 0, submap freeze, 0
+13.12.2022 16:26:49, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 14.00, 15.00
+13.12.2022 16:26:49, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 15.00, 16.00
+13.12.2022 16:26:49, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 16.00, 17.00
+13.12.2022 16:26:49, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 17.00, 18.00
+13.12.2022 16:26:50, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 18.00, 19.00
+13.12.2022 16:26:53, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 19.00, 18.00
+13.12.2022 16:26:53, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 18.00, 17.00
+13.12.2022 16:26:53, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 17.00, 16.00
+13.12.2022 16:26:53, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 16.00, 15.00
+13.12.2022 16:26:53, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 15.00, 14.00
+13.12.2022 16:26:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:26:54, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 14.00, 13.00
+13.12.2022 16:26:54, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 13.00, 12.00
+13.12.2022 16:26:54, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 12.00, 11.00
+13.12.2022 16:26:54, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 11.00, 10.00
+13.12.2022 16:26:54, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 10.00, 9.00
+13.12.2022 16:26:54, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 9.00, 8.00
+13.12.2022 16:26:55, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 8.00, 7.00
+13.12.2022 16:26:55, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 7.00, 6.00
+13.12.2022 16:26:55, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 6.00, 5.00
+13.12.2022 16:26:55, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 5.00, 4.00
+13.12.2022 16:26:55, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 4.00, 3.00
+13.12.2022 16:26:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:27:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:27:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:27:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:27:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:27:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:27:34, user, 15, 2, position setup, 0.000,-3.690,2.220 auto
+13.12.2022 16:27:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:27:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:27:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:27:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:04, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:28:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:14, user, 15, 2, position setup, 0.000,-3.690,2.220
+13.12.2022 16:28:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:30, user, 15, 2, position setup, 0.000,-3.685,2.220
+13.12.2022 16:28:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:28:48, user, 15, 4, position setup, 9.387,0.000,2.220
+13.12.2022 16:28:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:28:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:29:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:29:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:29:09, user, 15, 1, position setup, 9.387,-3.685,2.220
+13.12.2022 16:29:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:29:15, user, 5, 0, submap mirror, 1
+13.12.2022 16:29:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:29:17, user, 5, 0, submap mirror, 0
+13.12.2022 16:29:18, user, 5, 0, submap mirror, 1
+13.12.2022 16:29:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:29:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:29:27, user, 3, 0, submap freeze, 1
+13.12.2022 16:29:53, user, 3, 0, submap freeze, 0
+13.12.2022 16:29:59, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:30:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:30:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:30:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:30:17, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:30:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:30:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:30:23, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:30:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:30:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:30:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:30:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:30:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:30:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:30:53, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:30:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:31:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:31:05, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:31:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:31:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:31:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:31:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:31:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:31:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:31:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:31:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:31:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:31:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:31:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:31:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:32:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:32:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:32:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:32:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:32:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:32:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:32:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:32:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:32:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:32:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:32:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:32:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:32:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:33:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:33:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:33:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:33:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:33:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:33:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:33:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:33:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:33:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:33:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:33:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:33:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:33:40, user, 15, 1, position setup, 9.387,-3.685,2.220
+13.12.2022 16:33:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:33:45, user, 3, 0, submap freeze, 1
+13.12.2022 16:33:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:34:01, user, 3, 0, submap freeze, 0
+13.12.2022 16:34:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:34:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:34:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:34:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:34:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:34:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:34:17, user, 15, 1, position setup, 9.387,-3.685,2.220
+13.12.2022 16:34:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:34:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:34:31, user, 15, 4, position setup, 9.387,0.000,2.220
+13.12.2022 16:34:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:34:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:34:37, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 3.00, 2.00
+13.12.2022 16:34:37, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 2.00, 1.00
+13.12.2022 16:34:37, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 1.00, 0.00
+13.12.2022 16:34:37, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 0.00, -1.00
+13.12.2022 16:34:37, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", -1.00, -2.00
+13.12.2022 16:34:37, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", -2.00, -3.00
+13.12.2022 16:34:38, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", -3.00, -4.00
+13.12.2022 16:34:38, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", -4.00, -5.00
+13.12.2022 16:34:38, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", -5.00, -6.00
+13.12.2022 16:34:38, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", -6.00, -7.00
+13.12.2022 16:34:38, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", -7.00, -8.00
+13.12.2022 16:34:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:34:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:34:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:34:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:34:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:35:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:35:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:35:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:35:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:35:10, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:35:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:35:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:35:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:35:21, user, 15, 2, position setup, 0.000,-3.685,2.220
+13.12.2022 16:35:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:35:35, user, 15, 4, position setup, 9.387,0.000,2.220
+13.12.2022 16:35:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:35:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:35:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:35:43, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:35:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:35:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:35:51, user, 15, 1, position setup, 9.387,-3.685,2.220
+13.12.2022 16:35:54, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:35:55, user, 3, 0, submap freeze, 1
+13.12.2022 16:36:08, user, 15, 5, position setup, 4.660,-2.510,0.000 auto
+13.12.2022 16:36:18, user, 3, 1, submap freeze, 0
+13.12.2022 16:36:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:36:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:36:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:36:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:36:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:36:27, user, 15, 5, position setup, 4.660,-2.510,0.000 auto
+13.12.2022 16:36:45, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 0.00, 1.00
+13.12.2022 16:36:45, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 1.00, 2.00
+13.12.2022 16:36:45, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 2.00, 3.00
+13.12.2022 16:36:45, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 3.00, 4.00
+13.12.2022 16:36:45, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 4.00, 5.00
+13.12.2022 16:36:46, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 5.00, 6.00
+13.12.2022 16:36:46, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 6.00, 7.00
+13.12.2022 16:36:46, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 7.00, 8.00
+13.12.2022 16:36:46, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 8.00, 9.00
+13.12.2022 16:36:47, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 9.00, 10.00
+13.12.2022 16:36:47, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 10.00, 11.00
+13.12.2022 16:36:47, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 11.00, 12.00
+13.12.2022 16:36:48, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 12.00, 13.00
+13.12.2022 16:36:48, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 13.00, 14.00
+13.12.2022 16:36:48, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 14.00, 15.00
+13.12.2022 16:38:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:31, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 352.00, 351.00
+13.12.2022 16:38:31, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 351.00, 350.00
+13.12.2022 16:38:31, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 350.00, 349.00
+13.12.2022 16:38:31, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 349.00, 348.00
+13.12.2022 16:38:31, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 348.00, 347.00
+13.12.2022 16:38:31, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 347.00, 346.00
+13.12.2022 16:38:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:32, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 346.00, 345.00
+13.12.2022 16:38:32, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 345.00, 344.00
+13.12.2022 16:38:33, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 344.00, 345.00
+13.12.2022 16:38:33, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 345.00, 346.00
+13.12.2022 16:38:33, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 346.00, 347.00
+13.12.2022 16:38:33, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 347.00, 348.00
+13.12.2022 16:38:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:34, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 348.00, 349.00
+13.12.2022 16:38:34, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 349.00, 350.00
+13.12.2022 16:38:34, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 350.00, 351.00
+13.12.2022 16:38:34, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 351.00, 352.00
+13.12.2022 16:38:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:37, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 352.00, 351.00
+13.12.2022 16:38:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:46, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:38:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:38:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:39:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:39:00, user, 14, 5, device remove from network, 
+13.12.2022 16:39:00, user, 19, 1, remove submap, 
+13.12.2022 16:39:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:39:38, user, 3, 0, submap freeze, 0
+13.12.2022 16:39:40, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:39:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:39:43, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:39:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:39:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:39:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:39:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:39:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:39:58, user, 15, 2, position setup, 0.000,-3.685,2.220
+13.12.2022 16:40:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:40:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:40:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:40:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:40:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:40:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:40:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:40:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:40:32, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:40:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:40:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:40:44, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:40:45, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:40:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:40:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:40:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:40:59, user, 15, 1, position setup, 9.387,-3.685,2.220
+13.12.2022 16:41:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:12, user, 15, 4, position setup, 9.387,0.000,2.220
+13.12.2022 16:41:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:31, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:42, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:45, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:41:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:41:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:41:55, user, 15, 2, position setup, 0.000,-3.685,2.220
+13.12.2022 16:41:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:42:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:42:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:42:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:42:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:42:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:42:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:42:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:42:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:42:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:42:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:42:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:42:50, user, 15, 3, position setup, 0.000,0.000,2.220
+13.12.2022 16:42:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:42:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:42:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:43:00, user, 15, 2, position setup, 0.000,-3.685,2.220
+13.12.2022 16:43:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:43:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:43:11, user, 15, 1, position setup, 9.387,-3.685,2.220
+13.12.2022 16:43:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:43:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:43:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:43:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:43:20, user, 15, 4, position setup, 9.387,0.000,2.220
+13.12.2022 16:43:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:43:22, user, 3, 0, submap freeze, 1
+13.12.2022 16:43:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:44:05, user, 11, 5, device wake, 
+13.12.2022 16:44:06, user, 11, 5, device wake, 
+13.12.2022 16:44:16, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 351.00, 352.00
+13.12.2022 16:44:17, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 352.00, 353.00
+13.12.2022 16:44:19, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 353.00, 352.00
+13.12.2022 16:44:19, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 352.00, 351.00
+13.12.2022 16:44:19, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 351.00, 350.00
+13.12.2022 16:44:20, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 350.00, 351.00
+13.12.2022 16:44:20, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 351.00, 352.00
+13.12.2022 16:44:24, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 352.00, 351.00
+13.12.2022 16:44:25, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 351.00, 350.00
+13.12.2022 16:44:26, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 350.00, 351.00
+13.12.2022 16:44:27, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 351.00, 352.00
+13.12.2022 16:44:27, user, 1, 0, "Submap rotation, degrees (-360.00..360.00)", 352.00, 351.00
+13.12.2022 16:44:44, user, 7, 0, erase map, 0
+13.12.2022 16:44:44, user, 8, 0, load map, C:\Users\vd_sa\Documents\KuLeuven\Master\thesis\Navigation\submap0.ini
+13.12.2022 16:44:44, user, 1, 1, "Intermediate frequency (ID), kHz", 0, 203
+13.12.2022 16:44:44, user, 1, 1, "Deviation frequency, kHz", 0.000, 47.607
+13.12.2022 16:44:44, user, 1, 1, "Channel bandwidth, kHz", 30.093, 325.000
+13.12.2022 16:44:44, user, 11, 1, device wake, 
+13.12.2022 16:44:44, user, 11, 2, device wake, 
+13.12.2022 16:44:44, user, 11, 3, device wake, 
+13.12.2022 16:44:44, user, 11, 4, device wake, 
+13.12.2022 16:44:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:44:58, user, 11, 1, device wake, 
+13.12.2022 16:44:58, user, 11, 2, device wake, 
+13.12.2022 16:44:58, user, 11, 3, device wake, 
+13.12.2022 16:44:58, user, 11, 4, device wake, 
+13.12.2022 16:45:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:45:22, user, 11, 5, device wake, 
+13.12.2022 16:45:22, user, 11, 5, device wake, 
+13.12.2022 16:45:23, user, 1, 1, "Rotation, degrees", 48.0, 13.0
+13.12.2022 16:45:27, user, 1, 1, "Rotation, degrees", 13.0, 48.0
+13.12.2022 16:45:30, user, 2, 0, map freeze, 1
+13.12.2022 16:46:08, user, 1, 5, "Hedgehog mode", disabled, enabled
+13.12.2022 16:46:09, user, 1, 5, "Hedgehog mode", enabled, disabled
+13.12.2022 16:46:10, user, 1, 5, "Hedgehog mode", disabled, enabled
+13.12.2022 16:46:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:49:29, user, 2, 0, map freeze, 0
+13.12.2022 16:49:35, user, 2, 0, map freeze, 1
+13.12.2022 16:55:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:55:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:58:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:58:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:58:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:59:12, user, 1, 1, "Rotation, degrees", 48.0, 0.0
+13.12.2022 16:59:14, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+13.12.2022 16:59:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:59:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:59:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:59:33, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+13.12.2022 16:59:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+13.12.2022 16:59:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0

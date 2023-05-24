@@ -1,0 +1,195 @@
+05.04.2023 11:12:58, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+05.04.2023 11:13:04, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+05.04.2023 11:13:04, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+05.04.2023 11:13:04, user, 1, 1, "Extrapolation", enabled, disabled
+05.04.2023 11:13:05, user, 1, 0, "Service zones visible", disabled, enabled
+05.04.2023 11:13:05, user, 1, 0, "Service zones active", disabled, enabled
+05.04.2023 11:13:05, user, 1, 1, "Samples number (1..10)", 3, 0
+05.04.2023 11:13:05, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+05.04.2023 11:13:05, user, 1, 1, "Window of averaging (0..16)", 0, 4
+05.04.2023 11:13:05, user, 1, 1, "Distance filter (0..16)", 8, 0
+05.04.2023 11:13:05, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+05.04.2023 11:13:05, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+05.04.2023 11:13:05, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+05.04.2023 11:13:05, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+05.04.2023 11:13:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 11:13:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 11:13:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 11:13:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 11:13:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 11:13:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 11:13:30, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 11:13:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 11:13:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 11:13:40, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 11:13:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 11:13:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 11:13:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 11:13:49, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:14:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:14:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:14:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:14:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:14:42, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:14:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:15:00, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:15:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:15:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:15:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:16:07, user, 1, 19, "Rotation, degrees", 48.0, 0.0
+05/04/2023 11:22:21, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+05/04/2023 11:22:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:22:25, user, 11, 23, device wake, 
+05/04/2023 11:22:25, user, 11, 23, device wake, 
+05/04/2023 11:22:26, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:22:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:22:30, user, 11, 22, device wake, 
+05/04/2023 11:22:30, user, 11, 22, device wake, 
+05/04/2023 11:22:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:22:32, user, 11, 21, device wake, 
+05/04/2023 11:22:32, user, 11, 21, device wake, 
+05/04/2023 11:22:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:22:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:22:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:22:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:22:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:22:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:22:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:23:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:23:04, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:23:15, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+05/04/2023 11:23:53, user, 1, 5, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+05/04/2023 11:24:44, user, 10, 1, device sleep, 
+05/04/2023 11:24:59, user, 10, 20, device sleep, 
+05/04/2023 11:25:06, user, 11, 20, device wake, 
+05/04/2023 11:25:06, user, 11, 20, device wake, 
+05/04/2023 11:25:11, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+05/04/2023 11:25:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:25:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:25:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:25:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:25:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:26:13, user, 1, 20, "Radio channel", 2, 0
+05/04/2023 11:26:49, user, 11, 20, device wake, 
+05/04/2023 11:26:49, user, 11, 20, device wake, 
+05/04/2023 11:26:50, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+05/04/2023 11:27:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:15, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:23, user, 11, 20, device wake, 
+05/04/2023 11:27:23, user, 11, 20, device wake, 
+05/04/2023 11:27:23, user, 1, 1, "Rotation, degrees", 48.0, 8.0
+05/04/2023 11:27:27, user, 1, 1, "Rotation, degrees", 8.0, 48.0
+05/04/2023 11:27:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:31, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:47, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:52, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:27:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:27:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:28:02, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:28:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:28:04, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:28:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:28:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:28:14, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:28:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:28:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:28:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:28:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:28:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:29:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:29:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:29:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:29:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:29:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:29:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:29:46, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:29:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:29:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:29:52, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:30:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:30:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:30:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:31:54, user, 1, 1, "Rotation, degrees", 176.0, 0.0
+05/04/2023 11:31:56, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+05/04/2023 11:32:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:32:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:32:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:32:33, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:32:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:32:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:32:38, user, 10, 5, device sleep, 
+05/04/2023 11:32:44, user, 11, 5, device wake, 
+05/04/2023 11:33:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:34:44, user, 10, 2, device sleep, 
+05/04/2023 11:34:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:34:48, user, 11, 2, device wake, 
+05/04/2023 11:35:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:35:51, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:37:10, user, 1, 20, "Rotation, degrees", 176.0, 0.0
+05/04/2023 11:37:17, user, 1, 20, "Radio frequency band", "433 MHz", "868 MHz"
+05/04/2023 11:37:17, user, 1, 20, "Radio channel", 0, 3
+05/04/2023 11:37:18, user, 1, 20, "Radio frequency band", "868 MHz", "915 MHz"
+05/04/2023 11:37:22, user, 1, 20, "Radio channel", 3, 0
+05/04/2023 11:37:24, user, 12, 20, device default, 
+05/04/2023 11:37:25, user, 12, 20, device default, 
+05/04/2023 11:37:40, user, 12, 20, device default, 
+05/04/2023 11:37:55, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+05/04/2023 11:37:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:37:57, user, 11, 20, device wake, 
+05/04/2023 11:37:57, user, 11, 20, device wake, 
+05/04/2023 11:38:08, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:38:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:38:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:38:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:38:25, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:38:27, user, 1, 20, "Hedgehog mode", disabled, enabled
+05/04/2023 11:38:28, user, 1, 20, "Power save functions", enabled / active, disabled
+05/04/2023 11:38:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:39:16, user, 1, 20, "Device address (1..254)", 20, 8
+05/04/2023 11:39:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:39:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:41:58, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05/04/2023 11:42:11, user, 1, 8, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+05/04/2023 11:42:24, user, 10, 5, device sleep, 
+05/04/2023 11:42:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05/04/2023 11:42:34, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+05/04/2023 11:42:44, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+05/04/2023 11:43:59, user, 1, 8, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+05/04/2023 12:06:12, user, 1, 7, "Pairing mode", no pairing, pair
+05/04/2023 12:06:13, user, 1, 7, "IMU fusion for angle", disabled, enabled
+05/04/2023 12:06:13, user, 1, 7, "Send location of center", disabled, enabled
+05/04/2023 12:06:17, user, 1, 7, "Address of paired hedge (1..255)", 1, 8
+05/04/2023 12:06:32, user, 1, 8, "IMU fusion for angle", enabled, disabled
+05/04/2023 12:06:33, user, 1, 8, "IMU fusion for angle", disabled, enabled
+05/04/2023 12:06:40, user, 1, 7, "IMU fusion for angle", enabled, disabled
+05/04/2023 12:06:43, user, 1, 8, "IMU fusion for angle", disabled, enabled
+05/04/2023 12:06:43, user, 1, 8, "IMU fusion for angle", enabled, disabled
+05/04/2023 12:07:05, user, 1, 8, "Send location of center", enabled, disabled
+05/04/2023 12:07:08, user, 1, 7, "Send location of center", disabled, enabled
+05/04/2023 12:07:09, user, 1, 7, "Send location of center", enabled, disabled
+05/04/2023 12:07:35, user, 2, 0, map freeze, 1
+05/04/2023 12:07:51, user, 1, 7, "Real-time player streaming", disabled, enabled
+05/04/2023 12:07:57, user, 1, 8, "Real-time player streaming", disabled, enabled
+05/04/2023 12:11:24, user, 11, 13, device wake, 
+05/04/2023 12:13:22, user, 1, 8, "Pairing mode", pair, no pairing
+05/04/2023 12:13:23, user, 1, 8, "IMU fusion for angle", disabled, enabled
+05/04/2023 12:13:23, user, 1, 8, "Send location of center", disabled, enabled
+05/04/2023 12:13:42, user, 1, 7, "Pairing mode", no pairing, pair
+05/04/2023 12:13:43, user, 1, 7, "IMU fusion for angle", disabled, enabled
+05/04/2023 12:13:43, user, 1, 7, "Send location of center", disabled, enabled
+05/04/2023 12:13:46, user, 1, 7, "Address of paired hedge (1..255)", 1, 8
+05/04/2023 12:13:57, user, 1, 8, "IMU fusion for angle", enabled, disabled
+05/04/2023 12:13:58, user, 1, 8, "Send location of center", enabled, disabled

@@ -1,0 +1,81 @@
+19.12.2022 13:40:58, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+19.12.2022 13:41:00, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+19.12.2022 13:41:00, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+19.12.2022 13:41:00, user, 1, 1, "Extrapolation", enabled, disabled
+19.12.2022 13:41:00, user, 1, 0, "Service zones visible", disabled, enabled
+19.12.2022 13:41:00, user, 1, 0, "Service zones active", disabled, enabled
+19.12.2022 13:41:00, user, 1, 1, "Samples number (1..10)", 3, 0
+19.12.2022 13:41:00, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+19.12.2022 13:41:00, user, 1, 1, "Window of averaging (0..16)", 0, 4
+19.12.2022 13:41:00, user, 1, 1, "Distance filter (0..16)", 8, 0
+19.12.2022 13:41:00, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+19.12.2022 13:41:00, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+19.12.2022 13:41:00, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+19.12.2022 13:41:00, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+19.12.2022 13:41:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:12, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:16, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:18, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:20, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:30, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:34, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:35, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:37, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:41, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:45, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:48, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:41:57, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:41:59, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:02, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:14, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:17, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:19, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:28, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:31, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:42:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:42:51, user, 1, 1, "Device address (1..254)", 1, 0
+19.12.2022 13:42:57, user, 1, 1, "Device address (1..254)", 1, 0
+19.12.2022 13:44:11, user, 1, 10, "UART speed, bps", 500000, 4800
+19.12.2022 13:44:11, user, 1, 10, "UART speed, bps", 4800, 9600
+19.12.2022 13:44:17, user, 1, 10, "Rotation, degrees", 176.0, 48.0
+19.12.2022 13:44:20, user, 1, 1, "UART speed, bps", 500000, 4800
+19.12.2022 13:44:21, user, 1, 1, "UART speed, bps", 4800, 9600
+19.12.2022 13:44:29, user, 1, 2, "UART speed, bps", 500000, 4800
+19.12.2022 13:44:29, user, 1, 2, "UART speed, bps", 4800, 9600
+19.12.2022 13:44:37, user, 1, 3, "UART speed, bps", 500000, 4800
+19.12.2022 13:44:38, user, 1, 3, "UART speed, bps", 4800, 9600
+19.12.2022 13:44:44, user, 1, 4, "UART speed, bps", 500000, 4800
+19.12.2022 13:44:45, user, 1, 4, "UART speed, bps", 4800, 9600
+19.12.2022 13:44:48, user, 1, 10, "Rotation, degrees", 48.0, 176.0
+19.12.2022 13:44:50, user, 1, 6, "UART speed, bps", 500000, 4800
+19.12.2022 13:44:50, user, 1, 6, "UART speed, bps", 4800, 9600
+19.12.2022 13:44:54, user, 1, 6, "Streaming output", USB+UART, USB+UART/Bluetooth
+19.12.2022 13:44:55, user, 1, 6, "Streaming output", USB+UART/Bluetooth, Disabled
+19.12.2022 13:44:55, user, 1, 6, "Streaming output", Disabled, USB only
+19.12.2022 13:44:57, user, 1, 6, "Streaming output", USB only, USB+UART

@@ -1,0 +1,138 @@
+05.04.2023 12:47:19, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+05.04.2023 12:47:28, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+05.04.2023 12:47:28, user, 1, 1, "Extrapolation", enabled, disabled
+05.04.2023 12:47:28, user, 1, 0, "Service zones visible", disabled, enabled
+05.04.2023 12:47:28, user, 1, 0, "Service zones active", disabled, enabled
+05.04.2023 12:47:28, user, 1, 1, "Samples number (1..10)", 3, 0
+05.04.2023 12:47:28, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+05.04.2023 12:47:28, user, 1, 1, "Window of averaging (0..16)", 0, 4
+05.04.2023 12:47:28, user, 1, 1, "Distance filter (0..16)", 8, 0
+05.04.2023 12:47:28, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+05.04.2023 12:47:28, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+05.04.2023 12:47:28, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+05.04.2023 12:47:28, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+05.04.2023 12:47:30, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+05.04.2023 12:47:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 12:47:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 12:47:43, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 12:51:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 12:51:38, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 12:51:55, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 12:51:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 12:56:09, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 12:56:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 12:56:38, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 12:56:51, user, 1, 1, "Location update rate", 8 Hz, 12 Hz
+05.04.2023 12:56:52, user, 1, 1, "Location update rate", 12 Hz, 16 Hz
+05.04.2023 12:56:53, user, 1, 1, "Location update rate", 16 Hz, 16+ Hz
+05.04.2023 12:56:53, user, 1, 1, "Location update rate", 16+ Hz, 0.05 Hz
+05.04.2023 12:56:54, user, 1, 1, "Location update rate", 0.05 Hz, 0.1 Hz
+05.04.2023 12:56:56, user, 1, 1, "Location update rate", 0.1 Hz, 0.2 Hz
+05.04.2023 12:56:57, user, 1, 1, "Location update rate", 0.2 Hz, 0.5 Hz
+05.04.2023 12:56:58, user, 1, 1, "Location update rate", 0.5 Hz, 1 Hz
+05.04.2023 12:56:59, user, 1, 1, "Location update rate", 1 Hz, 2 Hz
+05.04.2023 12:56:59, user, 1, 1, "Location update rate", 2 Hz, 4 Hz
+05.04.2023 12:57:00, user, 1, 1, "Location update rate", 4 Hz, 8 Hz
+05.04.2023 12:59:30, user, 2, 0, map freeze, 0
+05.04.2023 12:59:40, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+05.04.2023 12:59:47, user, 1, 8, "Ultrasonic frequency, Hz (100..65000)", 31000, 25000
+05.04.2023 12:59:58, user, 1, 8, "Pairing mode", pair, no pairing
+05.04.2023 12:59:59, user, 1, 8, "IMU fusion for angle", disabled, enabled
+05.04.2023 12:59:59, user, 1, 8, "Send location of center", disabled, enabled
+05.04.2023 13:00:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:01:40, user, 1, 1, "Rotation, degrees", 48.0, 0.0
+05.04.2023 13:01:43, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+05.04.2023 13:01:48, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:01:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:01:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:01:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:02:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:02:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:02:11, user, 1, 8, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+05.04.2023 13:02:17, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 25000, 31000
+05.04.2023 13:04:54, user, 11, 5, device wake, 
+05.04.2023 13:04:54, user, 11, 5, device wake, 
+05.04.2023 13:05:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:05:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:05:10, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:05:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:05:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:05:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:05:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:05:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:05:19, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:05:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:05:21, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:05:25, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:05:30, user, 1, 8, "Ultrasonic frequency, Hz (100..65000)", 31000, 37000
+05.04.2023 13:05:39, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 31000, 37000
+05.04.2023 13:07:27, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:07:43, user, 1, 5, "External device control", No control, General robot control
+05.04.2023 13:07:45, user, 1, 5, "External device control", General robot control, Worker
+05.04.2023 13:07:48, user, 1, 5, "External device control", Worker, No control
+05.04.2023 13:07:49, user, 1, 5, "External device control", No control, General robot control
+05.04.2023 13:08:00, user, 1, 5, "External device control", General robot control, Worker
+05.04.2023 13:08:01, user, 1, 5, "External device control", Worker, No control
+05.04.2023 13:08:03, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:08:04, user, 1, 5, "Protocol on UART/USB output", Marvelmind, NMEA 0183
+05.04.2023 13:08:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:08:09, user, 1, 5, "Protocol on UART/USB output", NMEA 0183, Testing data
+05.04.2023 13:08:11, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:08:13, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:08:14, user, 1, 5, "Protocol on UART/USB output", Testing data, DMX512
+05.04.2023 13:08:15, user, 1, 5, "Protocol on UART/USB output", DMX512, UBX (u-blox)
+05.04.2023 13:08:16, user, 1, 5, "Protocol on UART/USB output", UBX (u-blox), Radio RX
+05.04.2023 13:08:18, user, 1, 5, "Protocol on UART/USB output", Radio RX, Marvelmind+timings
+05.04.2023 13:08:20, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:08:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:08:25, user, 1, 5, "Protocol on UART/USB output", Marvelmind+timings, Marvelmind
+05.04.2023 13:08:28, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:08:29, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:08:30, user, 1, 5, "PB4 pin function", SPI MISO, PPS output
+05.04.2023 13:08:31, user, 1, 5, "PB4 pin function", PPS output, SPI MISO
+05.04.2023 13:08:32, user, 1, 5, "PB4 pin function", SPI MISO, PPS output
+05.04.2023 13:08:33, user, 1, 5, "PB4 pin function", PPS output, SPI MISO
+05.04.2023 13:08:36, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:08:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:08:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:08:51, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:08:53, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:08:56, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:08:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:08:58, user, 1, 7, "Quality and extended location data", disabled, enabled
+05.04.2023 13:08:59, user, 1, 7, "Raw distances data", disabled, enabled
+05.04.2023 13:09:00, user, 1, 7, "Processed IMU data", disabled, enabled
+05.04.2023 13:09:01, user, 1, 7, "Raw inertial sensors data", disabled, enabled
+05.04.2023 13:09:02, user, 1, 7, "UART speed, bps", 500000, 4800
+05.04.2023 13:09:03, user, 1, 7, "UART speed, bps", 4800, 9600
+05.04.2023 13:09:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:09:08, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:09:16, user, 1, 7, "Ultrasonic frequency, Hz (100..65000)", 37000, 31000
+05.04.2023 13:10:19, user, 1, 8, "UART speed, bps", 500000, 4800
+05.04.2023 13:10:20, user, 1, 8, "UART speed, bps", 4800, 9600
+05.04.2023 13:10:21, user, 1, 8, "Raw inertial sensors data", disabled, enabled
+05.04.2023 13:10:22, user, 1, 8, "Processed IMU data", disabled, enabled
+05.04.2023 13:10:22, user, 1, 8, "Raw distances data", disabled, enabled
+05.04.2023 13:10:23, user, 1, 8, "Quality and extended location data", disabled, enabled
+05.04.2023 13:10:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+05.04.2023 13:10:27, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+05.04.2023 13:10:42, user, 1, 8, "Ultrasonic frequency, Hz (100..65000)", 37000, 31000
+05.04.2023 13:11:09, user, 1, 7, "Pairing mode", no pairing, pair
+05.04.2023 13:11:11, user, 1, 7, "IMU fusion for angle", disabled, enabled
+05.04.2023 13:11:11, user, 1, 7, "Send location of center", disabled, enabled
+05.04.2023 13:11:12, user, 1, 7, "Address of paired hedge (1..255)", 1, 8
+05.04.2023 13:11:20, user, 1, 7, "Base of the pair, cm (1..255)", 10, 20
+05.04.2023 13:11:27, user, 1, 7, "IMU fusion for angle", enabled, disabled
+05.04.2023 13:11:27, user, 1, 7, "Send location of center", enabled, disabled
+05.04.2023 13:13:25, user, 10, 5, device sleep, 
+05.04.2023 13:13:30, user, 14, 5, device remove from network, 
+05.04.2023 13:19:21, user, 10, 7, device sleep, 
+05.04.2023 13:19:23, user, 10, 8, device sleep, 
+05.04.2023 13:25:16, user, 11, 7, device wake, 
+05.04.2023 13:25:17, user, 11, 8, device wake, 
+05.04.2023 13:29:30, user, 2, 0, map freeze, 1
+05.04.2023 13:29:31, user, 2, 0, map freeze, 0
+05.04.2023 13:29:58, user, 1, 7, "IMU fusion for angle", disabled, enabled
+05.04.2023 13:30:18, user, 1, 7, "IMU fusion for angle", enabled, disabled
+05.04.2023 13:30:27, user, 2, 0, map freeze, 1
+05.04.2023 13:30:29, user, 2, 0, map freeze, 0

@@ -1,0 +1,33 @@
+16.12.2022 12:51:11, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+16.12.2022 12:51:44, user, 1, 5, "Streaming output", USB+UART, USB+UART/Bluetooth
+16.12.2022 12:51:44, user, 1, 5, "Streaming output", USB+UART/Bluetooth, Disabled
+16.12.2022 12:51:46, user, 1, 5, "Streaming output", Disabled, USB only
+16.12.2022 12:52:22, user, 1, 5, "Protocol on UART/USB output", Marvelmind, NMEA 0183
+16.12.2022 12:52:24, user, 1, 5, "Protocol on UART/USB output", NMEA 0183, Testing data
+16.12.2022 12:52:26, user, 1, 5, "Protocol on UART/USB output", Testing data, DMX512
+16.12.2022 12:52:26, user, 1, 5, "Protocol on UART/USB output", DMX512, UBX (u-blox)
+16.12.2022 12:52:27, user, 1, 5, "Protocol on UART/USB output", UBX (u-blox), Radio RX
+16.12.2022 12:52:28, user, 1, 5, "Protocol on UART/USB output", Radio RX, Marvelmind+timings
+16.12.2022 12:52:30, user, 1, 5, "Protocol on UART/USB output", Marvelmind+timings, Marvelmind
+16.12.2022 12:52:37, user, 1, 5, "External device control", No control, General robot control
+16.12.2022 12:52:38, user, 1, 5, "External device control", General robot control, Worker
+16.12.2022 12:52:42, user, 1, 5, "External device control", Worker, No control
+16.12.2022 12:52:44, user, 1, 5, "External device control", Worker, No control
+16.12.2022 12:53:08, user, 1, 5, "Streaming output", USB only, USB+UART
+16.12.2022 12:53:09, user, 1, 5, "Streaming output", USB+UART, USB+UART/Bluetooth
+16.12.2022 12:53:10, user, 1, 5, "Streaming output", USB+UART/Bluetooth, Disabled
+16.12.2022 12:53:11, user, 1, 5, "Streaming output", Disabled, USB only
+16.12.2022 12:53:30, user, 1, 5, "UART speed, bps", 500000, 4800
+16.12.2022 12:53:31, user, 1, 5, "UART speed, bps", 4800, 9600
+16.12.2022 12:53:32, user, 1, 5, "UART speed, bps", 9600, 19200
+16.12.2022 12:53:33, user, 1, 5, "UART speed, bps", 19200, 38400
+16.12.2022 12:53:33, user, 1, 5, "UART speed, bps", 38400, 57600
+16.12.2022 12:53:34, user, 1, 5, "UART speed, bps", 57600, 115200
+16.12.2022 12:53:34, user, 1, 5, "UART speed, bps", 115200, 500000
+16.12.2022 12:53:35, user, 1, 5, "UART speed, bps", 500000, 4800
+16.12.2022 12:53:36, user, 1, 5, "UART speed, bps", 4800, 9600
+16.12.2022 12:53:45, user, 1, 5, "Streaming output", USB only, USB+UART
+16.12.2022 12:53:46, user, 1, 5, "Streaming output", USB+UART, USB+UART/Bluetooth
+16.12.2022 12:53:46, user, 1, 5, "Streaming output", USB+UART/Bluetooth, Disabled
+16.12.2022 12:53:47, user, 1, 5, "Streaming output", Disabled, USB only
+16.12.2022 12:53:47, user, 1, 5, "Streaming output", USB only, USB+UART

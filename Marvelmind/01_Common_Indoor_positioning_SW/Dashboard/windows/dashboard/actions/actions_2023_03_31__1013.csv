@@ -1,0 +1,39 @@
+31.03.2023 10:13:46, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+31.03.2023 10:13:54, user, 18, 0, add submap, 
+31.03.2023 10:13:54, user, 1, 1, "Rotation, degrees", 0.0, 48.0
+31.03.2023 10:13:54, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+31.03.2023 10:13:54, user, 1, 1, "Extrapolation", enabled, disabled
+31.03.2023 10:13:54, user, 1, 0, "Service zones visible", disabled, enabled
+31.03.2023 10:13:54, user, 1, 0, "Service zones active", disabled, enabled
+31.03.2023 10:13:54, user, 1, 1, "Samples number (1..10)", 3, 0
+31.03.2023 10:13:54, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+31.03.2023 10:13:54, user, 1, 1, "Window of averaging (0..16)", 0, 4
+31.03.2023 10:13:54, user, 1, 1, "Distance filter (0..16)", 8, 0
+31.03.2023 10:13:54, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+31.03.2023 10:13:54, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+31.03.2023 10:13:54, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+31.03.2023 10:13:54, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+31.03.2023 10:13:55, user, 1, 0, "1D/2D/3D", 1D, none (no beacons)
+31.03.2023 10:13:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+31.03.2023 10:14:01, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+31.03.2023 10:14:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+31.03.2023 10:14:06, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+31.03.2023 10:14:07, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+31.03.2023 10:14:09, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+31.03.2023 10:14:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+31.03.2023 10:14:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+31.03.2023 10:14:13, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+31.03.2023 10:14:22, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+31.03.2023 10:14:23, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+31.03.2023 10:14:32, user, 16, 1, add to submap, 0
+31.03.2023 10:14:35, user, 16, 2, add to submap, 0
+31.03.2023 10:14:37, user, 16, 3, add to submap, 0
+31.03.2023 10:14:37, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+31.03.2023 10:14:39, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+31.03.2023 10:14:39, user, 16, 4, add to submap, 0
+31.03.2023 10:14:43, user, 3, 0, submap freeze, 1
+31.03.2023 10:14:44, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+31.03.2023 10:15:33, user, 2, 0, map freeze, 1
+31.03.2023 10:15:34, user, 2, 0, map freeze, 0
+31.03.2023 10:15:43, user, 2, 0, map freeze, 1
+31.03.2023 10:15:44, user, 2, 0, map freeze, 0

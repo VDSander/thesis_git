@@ -1,0 +1,101 @@
+23.02.2023 14:42:30, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+23.02.2023 14:42:34, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+23.02.2023 14:42:34, user, 1, 1, "Location update rate", 16 Hz, 8 Hz
+23.02.2023 14:42:34, user, 1, 1, "Extrapolation", enabled, disabled
+23.02.2023 14:42:34, user, 1, 0, "Service zones visible", disabled, enabled
+23.02.2023 14:42:34, user, 1, 0, "Service zones active", disabled, enabled
+23.02.2023 14:42:34, user, 1, 1, "Samples number (1..10)", 3, 0
+23.02.2023 14:42:34, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+23.02.2023 14:42:34, user, 1, 1, "Window of averaging (0..16)", 0, 4
+23.02.2023 14:42:34, user, 1, 1, "Distance filter (0..16)", 8, 0
+23.02.2023 14:42:34, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+23.02.2023 14:42:34, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+23.02.2023 14:42:34, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+23.02.2023 14:42:34, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
+23.02.2023 14:42:39, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:42:39, user, 1, 3, "Ax K", 0.000, 1.000
+23.02.2023 14:42:39, user, 1, 3, "Ay K", 0.000, 1.000
+23.02.2023 14:42:39, user, 1, 3, "Az K", 0.000, 1.000
+23.02.2023 14:42:39, user, 1, 3, "IMU weight for angle", 40, 10
+23.02.2023 14:42:44, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:42:47, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:42:49, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:42:50, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:42:54, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:42:55, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:42:59, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:00, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:01, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:03, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:04, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:05, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:06, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:07, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:10, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:11, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:15, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:16, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:16, user, 1, 5, "Processed IMU data", disabled, enabled
+23.02.2023 14:43:17, user, 1, 5, "Processed IMU data", enabled, disabled
+23.02.2023 14:43:18, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:18, user, 1, 5, "Processed IMU data", disabled, enabled
+23.02.2023 14:43:19, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:21, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:23, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:24, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:26, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:28, user, 1, 5, "Output mode", No output, IMU fusion data
+23.02.2023 14:43:29, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:29, user, 1, 5, "Output mode", IMU fusion data, Raw IMU data
+23.02.2023 14:43:31, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:32, user, 1, 5, "IMU raw acceleration", disabled, enabled
+23.02.2023 14:43:32, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:33, user, 1, 5, "IMU raw gyroscope", disabled, enabled
+23.02.2023 14:43:34, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:35, user, 1, 5, "IMU raw compass", disabled, enabled
+23.02.2023 14:43:35, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:43:36, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:43:55, user, 1, 5, "Stream IMU to SPI", disabled, enabled
+23.02.2023 14:44:12, user, 1, 5, "Protocol on UART/USB output", Marvelmind, NMEA 0183
+23.02.2023 14:44:14, user, 1, 5, "Protocol on UART/USB output", NMEA 0183, Testing data
+23.02.2023 14:44:17, user, 1, 5, "Protocol on UART/USB output", DMX512, UBX (u-blox)
+23.02.2023 14:44:18, user, 1, 5, "Protocol on UART/USB output", UBX (u-blox), Radio RX
+23.02.2023 14:44:19, user, 1, 5, "Protocol on UART/USB output", Radio RX, Marvelmind+timings
+23.02.2023 14:44:20, user, 1, 5, "Protocol on UART/USB output", Marvelmind+timings, Marvelmind
+23.02.2023 14:44:22, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:44:24, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:44:27, user, 1, 5, "Raw inertial sensors data", disabled, enabled
+23.02.2023 14:44:29, user, 1, 5, "Raw distances data", disabled, enabled
+23.02.2023 14:44:35, user, 1, 5, "Quality and extended location data", disabled, enabled
+23.02.2023 14:44:55, user, 1, 5, "Output mode", Raw IMU data, No output
+23.02.2023 14:44:56, user, 1, 5, "Output mode", No output, IMU fusion data
+23.02.2023 14:44:58, user, 1, 1, "Rotation, degrees", 48.0, 176.0
+23.02.2023 14:45:02, user, 1, 5, "Output mode", IMU fusion data, Raw IMU data
+23.02.2023 14:45:04, user, 1, 5, "IMU raw acceleration", enabled, disabled
+23.02.2023 14:45:05, user, 1, 5, "IMU raw gyroscope", enabled, disabled
+23.02.2023 14:45:07, user, 1, 5, "IMU raw compass", enabled, disabled
+23.02.2023 14:45:08, user, 1, 5, "IMU raw compass", disabled, enabled
+23.02.2023 14:45:09, user, 1, 5, "IMU raw gyroscope", disabled, enabled
+23.02.2023 14:45:09, user, 1, 5, "IMU raw acceleration", disabled, enabled
+23.02.2023 14:45:12, user, 1, 1, "Rotation, degrees", 176.0, 48.0
+23.02.2023 14:48:48, user, 1, 5, "Rotation, degrees", 48.0, 0.0
+23.02.2023 14:50:20, user, 1, 5, "Output mode", Raw IMU data, No output
+23.02.2023 14:50:21, user, 1, 5, "Output mode", No output, IMU fusion data
+23.02.2023 14:50:22, user, 1, 5, "Output mode", IMU fusion data, Raw IMU data
+23.02.2023 14:50:23, user, 1, 5, "Output mode", Raw IMU data, No output
+23.02.2023 14:50:24, user, 1, 5, "Output mode", No output, IMU fusion data
+23.02.2023 14:50:24, user, 1, 5, "Output mode", IMU fusion data, Raw IMU data
+23.02.2023 14:50:52, user, 1, 5, "Output mode", Raw IMU data, No output
+23.02.2023 14:50:53, user, 1, 5, "Output mode", No output, IMU fusion data
+23.02.2023 14:52:25, user, 1, 5, "IMU fusion location", disabled, enabled
+23.02.2023 14:52:26, user, 1, 5, "IMU fusion quaternion", disabled, enabled
+23.02.2023 14:52:27, user, 1, 5, "IMU fusion velocity", disabled, enabled
+23.02.2023 14:52:28, user, 1, 5, "IMU fusion acceleration", disabled, enabled
+23.02.2023 14:55:43, user, 1, 5, "IMU mode", Normal, High performance
+23.02.2023 14:55:43, user, 1, 5, "Stream IMU to SPI", enabled, disabled
+23.02.2023 14:56:32, user, 1, 5, "Ax zero", 0, -20
+23.02.2023 14:56:32, user, 1, 5, "Ay zero", 0, -14
+23.02.2023 14:56:32, user, 1, 5, "Az zero", 0, 32
+23.02.2023 14:56:32, user, 1, 5, "Ax K", 1.000, 1.006
+23.02.2023 14:56:32, user, 1, 5, "Ay K", 1.000, 0.998
+23.02.2023 14:56:32, user, 1, 5, "Az K", 1.000, 0.992

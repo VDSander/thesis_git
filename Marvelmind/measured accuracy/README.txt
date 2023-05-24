@@ -1,0 +1,1 @@
+The accuracy was measure using the script in \code\testcodes\marvelmind_accuracy.py

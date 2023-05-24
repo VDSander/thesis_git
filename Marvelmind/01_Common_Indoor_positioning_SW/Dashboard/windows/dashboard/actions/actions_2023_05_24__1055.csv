@@ -1,0 +1,14 @@
+24.05.2023 10:55:23, user, 1, 0, "Paired beacons angle visible", enabled, disabled
+24.05.2023 10:55:27, user, 1, 1, "Rotation, degrees", 0.0, 176.0
+24.05.2023 10:55:27, user, 1, 1, "Extrapolation", enabled, disabled
+24.05.2023 10:55:27, user, 1, 1, "High resolution mode (mm)", enabled, disabled
+24.05.2023 10:55:27, user, 1, 0, "Service zones visible", disabled, enabled
+24.05.2023 10:55:27, user, 1, 0, "Service zones active", disabled, enabled
+24.05.2023 10:55:27, user, 1, 1, "Samples number (1..10)", 3, 0
+24.05.2023 10:55:27, user, 1, 1, "Max. distance between updates, m (0.1..2.5)", 0.5, 0.0
+24.05.2023 10:55:27, user, 1, 1, "Window of averaging (0..16)", 0, 4
+24.05.2023 10:55:27, user, 1, 1, "Distance filter (0..16)", 8, 0
+24.05.2023 10:55:27, user, 1, 1, "Max. hedges readout per cycle (1..255)", 10, 0
+24.05.2023 10:55:27, user, 1, 1, "Jitter granularity, ms (1..16)", 3, 1
+24.05.2023 10:55:27, user, 1, 1, "Jitter area, % (0..50)", 25, 0
+24.05.2023 10:55:27, user, 1, 1, "Reset timeout w/o dashboard, min (1..127)", 1, 0
